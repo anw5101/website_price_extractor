@@ -182,9 +182,15 @@ websites = [
 
 # Set up Chrome options
 options = Options()
-options.add_argument("--headless")  # Run in the background
+options.add_argument("--headless")  # Run in background (optional)
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
+
+# Bypass bot detection by setting a real browser User-Agent
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36")
+
+# Disable automation flags that sites use to detect bots
+options.add_argument("--disable-blink-features=AutomationControlled")
 
 # Initialize WebDriver
 service = Service(ChromeDriverManager().install())
@@ -202,8 +208,8 @@ for site in websites:
 
     for label, xpath in site["xpaths"].items():
         try:
-            # Wait up to 10 seconds for the element to appear
-            element = WebDriverWait(driver, 10).until(
+            # Wait up to 20 seconds for the element to appear
+            element = WebDriverWait(driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, xpath))
             )
             site_data[label] = element.text.strip()

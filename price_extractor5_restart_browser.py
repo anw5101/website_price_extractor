@@ -2,10 +2,18 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium_stealth import stealth
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
+import time
+import random
+
+# Location (Modify for your needs)
+latitude = 41.616788   # Waukee, IA
+longitude = -93.854709 # Waukee, IA 
+accuracy = 100         # Meters
 
 # List of websites and corresponding XPaths
 websites = [
@@ -180,15 +188,34 @@ websites = [
     # },
 ]
 
-# Set up Chrome options
-options = Options()
-options.add_argument("--headless")  # Run in the background
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
+# Function to initialize a new WebDriver with required options
+def initialize_driver():
+    options = Options()
+    options.add_argument("--headless")  # Run in background (optional)
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-blink-features=AutomationControlled")  # Prevent bot detection
 
-# Initialize WebDriver
-service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
+    # Bypass bot detection by setting a real browser User-Agent
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36")
+
+    # Disable automation flags that sites use to detect bots
+    options.add_argument("--disable-blink-features=AutomationControlled")
+
+    # Initialize WebDriver
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+
+    # Apply Selenium Stealth (MUST BE AFTER DRIVER INITIALIZATION)
+    stealth(driver,
+            languages=["en-US", "en"],
+            vendor="Google Inc.",
+            platform="Win32",
+            webgl_vendor="Intel Inc.",
+            renderer="Intel Iris OpenGL Engine",
+            fix_hairline=True,
+            )
+    return driver
 
 # Store extracted data
 data = []
@@ -196,24 +223,35 @@ data = []
 for site in websites:
     url = site["url"]
     print(f"Opening: {url}")
+    
+    # Initialize a new driver for each website
+    driver = initialize_driver()
     driver.get(url)
 
     site_data = {"URL": url}
 
     for label, xpath in site["xpaths"].items():
         try:
-            # Wait up to 10 seconds for the element to appear
-            element = WebDriverWait(driver, 10).until(
+            # Wait up to 20 seconds for the element to appear
+            element = WebDriverWait(driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, xpath))
             )
             site_data[label] = element.text.strip()
         except Exception as e:
             site_data[label] = "Not found"
 
+    # Print the extracted data for the current website
+    print(site_data)
+
     data.append(site_data)
 
-# Close browser
-driver.quit()
+    # Close browser after extracting data for the current website
+    driver.quit()
+
+    # Add a randomized delay before the next request (helps avoid detection)
+    delay_time = random.randint(5, 15)  # Delay between 5 to 15 seconds
+    print(f"Waiting for {delay_time} seconds before the next request...")
+    time.sleep(delay_time)
 
 # Save data to Excel
 df = pd.DataFrame(data)
