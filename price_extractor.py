@@ -3,6 +3,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 # List of websites and corresponding XPaths
@@ -52,7 +54,10 @@ for site in websites:
 
     for label, xpath in site["xpaths"].items():
         try:
-            element = driver.find_element(By.XPATH, xpath)
+            # Wait up to 10 seconds for the element to appear
+            element = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, xpath))
+            )
             site_data[label] = element.text.strip()
         except Exception as e:
             site_data[label] = "Not found"
