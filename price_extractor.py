@@ -22,7 +22,7 @@ websites = [
             "Product Name": '//*[@id="main"]/div/div/div[2]/div[2]/h1',
             "Price": '/html/body/div[1]/div/main/div/div/div/div[2]/div[2]/p[1]'
         }
-    }
+    },
 # Roma Tomatoes 
        {
         "url": "https://www.walmart.com/ip/Fresh-Roma-Tomato-Each/44390944",
