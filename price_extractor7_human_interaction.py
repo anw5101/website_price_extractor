@@ -269,7 +269,7 @@ for site in websites:
     driver.quit()
 
     # Add a randomized delay before the next request (helps avoid detection)
-    delay_time = random.randint(5, 15)  # Delay between 5 to 15 seconds
+    delay_time = random.randint(1, 5)  # Delay between 1 to 5 seconds
     print(f"Waiting for {delay_time} seconds before the next request...")
     time.sleep(delay_time)
 
