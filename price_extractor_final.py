@@ -8,28 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
-import schedule
-import os
 import random
 from datetime import datetime
-
-### Define the main scraper function
-##def main_scraper_function():
-##    print("Scraping website...")
-##    # Your scraping logic here
-##
-### Function to run the scraper
-##def run_scraper():
-##    print("Running scraper at", datetime.now().strftime("%Y-%m-%d %H:%M"))
-##    main_scraper_function()  # Calls the defined function
-##
-### Schedule the scraper to run every day at 3 AM 
-##schedule.every().day.at("09:49").do(run_scraper)
-##
-### Keep the script running to check and execute scheduled tasks
-##while True:
-##    schedule.run_pending()
-##    time.sleep(60)  # Check every minute
 
 # Location (Modify for your needs)
 latitude = 41.616788   # Waukee, IA
@@ -314,37 +294,11 @@ for site in websites:
     print(f"Waiting for {delay_time} seconds before the next request...")
     time.sleep(delay_time)
 
-### Generate timestamp
-##timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-##
-### Save data to Excel with timestamp
-##df = pd.DataFrame(data)
-##df.to_excel(f"price_extractor_{timestamp}.xlsx", index=False)
-##
-##print("Extraction complete! Data saved to price_extractor_{timestamp}.xlsx")
+# Generate timestamp
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-# Generate timestamp for column name
-timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+# Save data to Excel with timestamp
+df = pd.DataFrame(data)
+df.to_excel(f"price_extractor_{timestamp}.xlsx", index=False)
 
-# Define filename
-filename = "price_extractor.xlsx"
-
-# Check if the file already exists
-if os.path.exists(filename):
-    # Load existing data
-    existing_df = pd.read_excel(filename)
-    
-    # Align new data with previous entries
-    new_df = pd.DataFrame(data)
-
-    # Ensure data alignment by merging based on "URL"
-    merged_df = existing_df.merge(new_df, on="URL", how="left", suffixes=("", f"_{timestamp}"))
-
-    # Save updated dataframe back to the same file
-    merged_df.to_excel(filename, index=False)
-else:
-    # If file does not exist, create a new one
-    new_df = pd.DataFrame(data)
-    new_df.to_excel(filename, index=False)
-
-print(f"Extraction complete! Data saved to {filename}.")
+print("Extraction complete! Data saved to price_extractor_{timestamp}.xlsx")
