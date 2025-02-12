@@ -13,47 +13,6 @@ import os
 import random
 from datetime import datetime
 
-### Define the main scraper function
-##def main_scraper_function():
-##    print("Scraping website...")
-##    # Your scraping logic here
-##
-### Function to run the scraper
-##def run_scraper():
-##    print("Running scraper at", datetime.now().strftime("%Y-%m-%d %H:%M"))
-##    main_scraper_function()  # Calls the defined function
-##
-### Schedule the scraper to run every day at 3 AM 
-##schedule.every().day.at("09:49").do(run_scraper)
-##
-### Keep the script running to check and execute scheduled tasks
-##while True:
-##    schedule.run_pending()
-##    time.sleep(60)  # Check every minute
-
-# Location (Modify for your needs)
-latitude = 41.616788   # Waukee, IA
-longitude = -93.854709 # Waukee, IA 
-accuracy = 100         # Meters
-
-# Function to simulate human-like interaction
-def human_like_interaction(driver):
-    actions = ActionChains(driver)
-    
-    # Simulate random mouse movements
-    for _ in range(random.randint(3, 7)):
-        x_offset = random.randint(-100, 100)
-        y_offset = random.randint(-100, 100)
-        actions.move_by_offset(x_offset, y_offset).perform()
-        time.sleep(random.uniform(0.3, 1.5))
-
-    # Simulate scrolling
-    scroll_height = random.randint(200, 800)
-    driver.execute_script(f"window.scrollBy(0, {scroll_height});")
-    time.sleep(random.uniform(1, 3))
-
-    print("✅ Simulated human-like interaction.")
-
 # List of websites and corresponding XPaths
 websites = [
 # Gas Prices (87 unleaded; Waukee, IA) 
@@ -243,6 +202,11 @@ websites = [
     # },
 ]
 
+# Location (Modify for your needs)
+latitude = 41.616788   # Waukee, IA
+longitude = -93.854709 # Waukee, IA 
+accuracy = 100         # Meters
+
 # Function to initialize the WebDriver with proxy and options
 def initialize_driver(proxy=None):
     options = Options()
@@ -252,12 +216,10 @@ def initialize_driver(proxy=None):
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-blink-features=AutomationControlled")  # Prevent bot detection
+    # options.add_argument("--headless")  # Comment out this line to disable headless mode
 
     # Use a normal user-agent for better evasion of bot detection
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36")
-
-    # Non-headless mode to mimic real user browsing
-    # options.add_argument("--headless")  # Comment out this line to disable headless mode
 
     # Initialize WebDriver
     service = Service(ChromeDriverManager().install())
@@ -274,77 +236,88 @@ def initialize_driver(proxy=None):
             )
     return driver
 
-# Store extracted data
-data = []
+# Define the main scraper function
+def main_scraper_function():
+    print("Scraping websites...")
+    # Store extracted data
+    data = []
 
-for site in websites:
-    url = site["url"]
-    print(f"Opening: {url}")
-    
-    # Initialize a new driver for each website
-    driver = initialize_driver()
-    driver.get(url)
+    for site in websites:
+            url = site["url"]
+            print(f"Opening: {url}")
+            
+            # Initialize a new driver for each website
+            driver = initialize_driver()
+            driver.get(url)
 
-    site_data = {"URL": url}
+            site_data = {"URL": url}
 
-    print(f"Waiting for {2} seconds for page to load...")
-    time.sleep(2)
-    print("Done waiting!")
+            print(f"Waiting for {2} seconds for page to load...")
+            time.sleep(2)
+            print("Done waiting!")
 
-    for label, xpath in site["xpaths"].items():
-        try:
-            # Wait up to 20 seconds for the element to appear
-            element = WebDriverWait(driver, 20).until(
-                EC.presence_of_element_located((By.XPATH, xpath))
-            )
-            site_data[label] = element.text.strip()
-        except Exception as e:
-            site_data[label] = "Not found"
+            for label, xpath in site["xpaths"].items():
+                try:
+                    # Wait up to 20 seconds for the element to appear
+                    element = WebDriverWait(driver, 20).until(
+                        EC.presence_of_element_located((By.XPATH, xpath))
+                    )
+                    site_data[label] = element.text.strip()
+                except Exception as e:
+                    site_data[label] = "Not found"
 
-    # Print the extracted data for the current website
-    print(site_data)
+            # Print the extracted data for the current website
+            print(site_data)
 
-    data.append(site_data)
+            data.append(site_data)
 
-    # Close browser after extracting data for the current website
-    driver.quit()
+            # Close browser after extracting data for the current website
+            driver.quit()
 
-    # Add a randomized delay before the next request (helps avoid detection)
-    delay_time = random.randint(1, 5)  # Delay between 1 to 5 seconds
-    print(f"Waiting for {delay_time} seconds before the next request...")
-    time.sleep(delay_time)
+            # Add a randomized delay before the next request (helps avoid detection)
+            delay_time = random.randint(1, 5)  # Delay between 1 to 5 seconds
+            print(f"Waiting for {delay_time} seconds before the next request...")
+            time.sleep(delay_time)
 
-### Generate timestamp
-##timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-##
-### Save data to Excel with timestamp
-##df = pd.DataFrame(data)
-##df.to_excel(f"price_extractor_{timestamp}.xlsx", index=False)
-##
-##print("Extraction complete! Data saved to price_extractor_{timestamp}.xlsx")
+    # Generate timestamp for column name
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
 
-# Generate timestamp for column name
-timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+    # Define filename
+    filename = "price_extractor_draft.xlsx"
 
-# Define filename
-filename = "price_extractor.xlsx"
+    # Check if the file already exists
+    if os.path.exists(filename):
+        # Load existing data
+        existing_df = pd.read_excel(filename)
+        
+        # Align new data with previous entries
+        new_df = pd.DataFrame(data)
 
-# Check if the file already exists
-if os.path.exists(filename):
-    # Load existing data
-    existing_df = pd.read_excel(filename)
-    
-    # Align new data with previous entries
-    new_df = pd.DataFrame(data)
+        # Ensure data alignment by merging based on "URL"
+        merged_df = existing_df.merge(new_df, on="URL", how="left", suffixes=("", f"_{timestamp}"))
 
-    # Ensure data alignment by merging based on "URL"
-    merged_df = existing_df.merge(new_df, on="URL", how="left", suffixes=("", f"_{timestamp}"))
+        # Save updated dataframe back to the same file
+        merged_df.to_excel(filename, index=False)
+    else:
+        # If file does not exist, create a new one
+        new_df = pd.DataFrame(data)
+        new_df.to_excel(filename, index=False)
 
-    # Save updated dataframe back to the same file
-    merged_df.to_excel(filename, index=False)
-else:
-    # If file does not exist, create a new one
-    new_df = pd.DataFrame(data)
-    new_df.to_excel(filename, index=False)
+    print(f"Extraction complete! Data saved to {filename}.")
 
-print(f"Extraction complete! Data saved to {filename}.")
+
+# Function to run the scraper
+def run_scraper():
+    print("Running scraper at", datetime.now().strftime("%Y-%m-%d %H:%M"))
+    main_scraper_function()  # Calls the defined function
+
+# Schedule the scraper to run every day at 3 AM 
+schedule.every().day.at("03:00").do(run_scraper)
+
+
+# Keep the script running to check and execute scheduled tasks
+while True:
+    schedule.run_pending()
+    time.sleep(60)  # Check every minute
+
+
