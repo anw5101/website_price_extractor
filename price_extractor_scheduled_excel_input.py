@@ -131,7 +131,7 @@ def run_scraper():
     main_scraper_function()
 
 # Schedule the scraper to run daily at 3 AM
-schedule.every().day.at("15:43").do(run_scraper)
+schedule.every().day.at("03:00").do(run_scraper)
 
 # Keep the script running to check and execute scheduled tasks
 while True:
