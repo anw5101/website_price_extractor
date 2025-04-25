@@ -85,7 +85,7 @@ def main_scraper_function():
         time.sleep(delay_time)
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
-    filename = "price_extractor_import.xlsx"
+    filename = "price_extractor.xlsx"
 
     if os.path.exists(filename):
         existing_df = pd.read_excel(filename)
