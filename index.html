@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PriceTrack // Premium Analytics Dashboard</title>
+    <!-- Modern Google Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- ChartJS and Lucide Icons -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Custom Vanilla Styling -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard-wrapper">
+        <!-- Sidebar Navigation & Filters -->
+        <aside class="sidebar-container">
+            <div class="sidebar-brand">
+                <div class="brand-logo">
+                    <i data-lucide="activity" class="accent-icon"></i>
+                </div>
+                <div class="brand-text">
+                    <h1>PriceTrack</h1>
+                    <span>Analytics Engine v2.0</span>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h2>Search Products</h2>
+                <div class="search-input-wrapper">
+                    <i data-lucide="search" class="search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Type name or keyword...">
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h2>Filter by Store</h2>
+                <div class="filter-group" id="store-filters">
+                    <button class="filter-btn active" data-store="all">
+                        <i data-lucide="layout-grid"></i> All Stores
+                    </button>
+                    <!-- JavaScript dynamically injects store filters here -->
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <h2>Filter by Status</h2>
+                <div class="filter-group" id="status-filters">
+                    <button class="filter-btn active" data-status="all">
+                        <i data-lucide="layers"></i> All Products
+                    </button>
+                    <button class="filter-btn" data-status="active">
+                        <i data-lucide="check-circle" class="txt-success"></i> Active
+                    </button>
+                    <button class="filter-btn" data-status="xpath_error">
+                        <i data-lucide="alert-triangle" class="txt-warning"></i> XPath Error
+                    </button>
+                    <button class="filter-btn" data-status="blocked">
+                        <i data-lucide="shield-alert" class="txt-danger"></i> Blocked/Failed
+                    </button>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="status-badge">
+                    <span class="pulse-dot"></span>
+                    <span>System Connected</span>
+                </div>
+                <div class="developer-credit">Powered by Antigravity AI</div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header Section -->
+            <header class="main-header">
+                <div class="header-titles">
+                    <span class="sub-heading">Operational Metrics Overview</span>
+                    <h2>Command Center Dashboard</h2>
+                </div>
+                <div class="last-run-card">
+                    <i data-lucide="calendar"></i>
+                    <div>
+                        <span class="lbl">Last Automated Run</span>
+                        <span class="val" id="last-updated-time">Checking...</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Global KPI / Statistics Cards -->
+            <section class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span>Total Tracked Items</span>
+                        <i data-lucide="package" class="stat-icon icon-blue"></i>
+                    </div>
+                    <div class="stat-value" id="kpi-total-items">0</div>
+                    <div class="stat-desc">Active in tracking registry</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span>Healthy Scrapes</span>
+                        <i data-lucide="shield-check" class="stat-icon icon-green"></i>
+                    </div>
+                    <div class="stat-value text-success" id="kpi-healthy">0</div>
+                    <div class="stat-desc">Scraped & validated prices</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span>System Anomalies</span>
+                        <i data-lucide="alert-circle" class="stat-icon icon-red"></i>
+                    </div>
+                    <div class="stat-value text-danger" id="kpi-anomalies">0</div>
+                    <div class="stat-desc">Failed XPaths or blocks</div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span>Average Product Price</span>
+                        <i data-lucide="line-chart" class="stat-icon icon-amber"></i>
+                    </div>
+                    <div class="stat-value text-amber" id="kpi-avg-price">$0.00</div>
+                    <div class="stat-desc">Across all successfully queried items</div>
+                </div>
+            </section>
+
+            <!-- Dual Panel Layout: Grid Card and Detailed Analytics Chart -->
+            <div class="content-split-layout">
+                <!-- Products Card Grid -->
+                <div class="products-panel">
+                    <div class="panel-header">
+                        <h3>Registered Products Grid</h3>
+                        <span class="results-count" id="results-count">Showing all products</span>
+                    </div>
+                    <div class="products-grid" id="products-grid">
+                        <!-- JavaScript dynamically injects glassmorphic cards here -->
+                        <div class="loading-state">
+                            <div class="spinner"></div>
+                            <p>Querying local filesystem for data.json...</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Detailed History Chart Panel -->
+                <aside class="chart-panel" id="chart-panel">
+                    <div class="chart-header">
+                        <div class="chart-header-title">
+                            <i data-lucide="trending-up" class="chart-icon-header"></i>
+                            <div>
+                                <h4 id="chart-product-name">Select a Product Card</h4>
+                                <p id="chart-product-url">Click a card in the grid to view price history trends</p>
+                            </div>
+                        </div>
+                        <div class="chart-price-indicator">
+                            <span class="lbl">Latest Price</span>
+                            <span class="val" id="chart-product-price">-</span>
+                        </div>
+                    </div>
+                    <div class="chart-body">
+                        <!-- Chart element wrapper -->
+                        <div class="canvas-wrapper">
+                            <canvas id="historyChart"></canvas>
+                        </div>
+                        <div class="chart-placeholder-message" id="chart-placeholder">
+                            <i data-lucide="bar-chart-2"></i>
+                            <p>No product selected. Click on any card inside the left grid to generate a chronological price trajectory graph.</p>
+                        </div>
+                    </div>
+                    <div class="chart-footer-meta" id="chart-footer-meta" style="display: none;">
+                        <div class="meta-item">
+                            <span class="lbl">Price Sparkline Change</span>
+                            <span class="val" id="chart-meta-change">0.0%</span>
+                        </div>
+                        <div class="meta-item">
+                            <span class="lbl">Store badge</span>
+                            <span class="val store-tag" id="chart-meta-store">unknown</span>
+                        </div>
+                        <div class="meta-item">
+                            <span class="lbl">Last Scraping State</span>
+                            <span class="val status-tag text-success" id="chart-meta-status">Active</span>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </main>
+    </div>
+
+    <!-- Main JavaScript Logic -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
