@@ -36,7 +36,8 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas openpyxl selenium selenium-stealth webdriver-manager
+          pip install -r requirements.txt
+
 
       - name: Run Price Extractor Scraper
         run: |
