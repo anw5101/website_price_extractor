@@ -9,7 +9,7 @@ def compile_dashboard_only():
     print("  Dashboard Data Compiler Starting...   ")
     print("========================================")
     
-    base_path = "/Users/anw5101/GitHub/website_price_extractor"
+    base_path = os.path.dirname(os.path.abspath(__file__))
     excel_filename = os.path.join(base_path, "price_extractor.xlsx")
     json_filename = os.path.join(base_path, "data.json")
     js_filename = os.path.join(base_path, "data.js")

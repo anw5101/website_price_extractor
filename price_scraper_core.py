@@ -34,7 +34,7 @@ def get_domain(url):
 def load_websites(filename="websites.xlsx"):
     """Loads URL and XPath configurations from the input Excel spreadsheet."""
     # Try resolving path absolute or relative
-    base_path = "/Users/anw5101/GitHub/website_price_extractor"
+    base_path = os.path.dirname(os.path.abspath(__file__))
     path = os.path.join(base_path, filename) if not os.path.exists(filename) else filename
     
     if not os.path.exists(path):
@@ -70,6 +70,8 @@ def initialize_driver():
     
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
+    driver.set_page_load_timeout(25)  # Set 25 seconds page load timeout
+    driver.set_script_timeout(25)     # Set 25 seconds script timeout
     
     # Configure stealth parameters to prevent anti-bot detection
     stealth(driver,
@@ -182,7 +184,8 @@ def extract_json_ld_metadata(html_content):
 
 def update_excel_and_json(data):
     """Updates the historical Excel sheet and compiles dashboard-ready JSON data."""
-    base_path = "/Users/anw5101/GitHub/website_price_extractor"
+    # Resolve base_path dynamically to the current directory of this script
+    base_path = os.path.dirname(os.path.abspath(__file__))
     excel_filename = os.path.join(base_path, "price_extractor.xlsx")
     json_filename = os.path.join(base_path, "data.json")
     
