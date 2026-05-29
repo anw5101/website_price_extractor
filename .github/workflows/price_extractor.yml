@@ -1,0 +1,60 @@
+name: Nightly Price Extractor Scraper
+
+on:
+  schedule:
+    # Run daily at 08:00 UTC (3:00 AM Central Standard Time - Waukee, IA)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    # Allows manually triggering the scraper from the GitHub Actions UI
+    inputs:
+      reason:
+        description: 'Reason for manual run'
+        required: false
+        default: 'Manual trigger'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to allow committing and pushing output files back to repository
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # Speeds up subsequent workflow runs by caching dependencies
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas openpyxl selenium selenium-stealth webdriver-manager
+
+      - name: Run Price Extractor Scraper
+        run: |
+          python price_extractor_manual_excel_input.py
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the output files
+          git add price_extractor.xlsx data.json
+          
+          # Check if there are changes to commit
+          if git diff-index --quiet HEAD; then
+            echo "No price changes detected. Skipping repository commit."
+          else
+            echo "New price data detected. Committing changes..."
+            git commit -m "Scraper: Auto-update historical price data [skip ci]"
+            git push origin main || git push origin master
+          fi
