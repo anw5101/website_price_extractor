@@ -6,7 +6,7 @@
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -1992,6 +1992,11 @@
         "date": "2026-07-06",
         "price": 36.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 36.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -2002,7 +2007,7 @@
     "current_price": "798",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -2668,7 +2673,7 @@
     "current_price": "748",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -3119,7 +3124,7 @@
     "current_price": "$5.32",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -4255,6 +4260,11 @@
         "date": "2026-07-06",
         "price": 5.32,
         "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 5.32,
+        "raw_price": "$5.32"
       }
     ]
   },
@@ -4265,7 +4275,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -5406,6 +5416,11 @@
         "date": "2026-07-06",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -5413,10 +5428,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$8.49",
+    "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -6557,6 +6572,11 @@
         "date": "2026-07-06",
         "price": 8.49,
         "raw_price": "$8.49"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -6564,10 +6584,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/23969/HyVee-Oven-Roasted-Cured-Turkey-Breast-And-White-Turkey-Shaved-Slices",
     "name": "Hy-Vee Oven Roasted Cured Turkey Breast & White Turkey Shaved Slices",
     "domain": "hy-vee.com",
-    "current_price": "$5.99",
+    "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -7703,6 +7723,11 @@
         "date": "2026-07-06",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 5.79,
+        "raw_price": "$5.79"
       }
     ]
   },
@@ -7710,10 +7735,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2849570/Thats-Smart-Large-Shell-Eggs",
     "name": "That's Smart! Large Shell Eggs",
     "domain": "hy-vee.com",
-    "current_price": "$1.96",
+    "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -8854,6 +8879,11 @@
         "date": "2026-07-06",
         "price": 1.96,
         "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1.97,
+        "raw_price": "$1.97"
       }
     ]
   },
@@ -8861,10 +8891,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2869496/Thats-Smart-Fat-Free-Skim-Milk",
     "name": "That's Smart! Fat Free Skim Milk",
     "domain": "hy-vee.com",
-    "current_price": "$2.75",
+    "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -10005,6 +10035,11 @@
         "date": "2026-07-06",
         "price": 2.75,
         "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2.78,
+        "raw_price": "$2.78"
       }
     ]
   },
@@ -10012,10 +10047,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2886456/Thats-Smart-Mayonnaise",
     "name": "That's Smart! Mayonnaise",
     "domain": "hy-vee.com",
-    "current_price": "$3.37",
+    "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -11156,6 +11191,11 @@
         "date": "2026-07-06",
         "price": 3.37,
         "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -11163,10 +11203,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2912532/Thats-Smart-Small-Curd-Cottage-Cheese-4-Milkfat",
     "name": "That's Smart! Small Curd Cottage Cheese 4% Milkfat",
     "domain": "hy-vee.com",
-    "current_price": "$2.99",
+    "current_price": "$3.29",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -12302,6 +12342,11 @@
         "date": "2026-07-06",
         "price": 2.99,
         "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.29,
+        "raw_price": "$3.29"
       }
     ]
   },
@@ -12309,10 +12354,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/31823/Certified-Ground-Round-90-Lean-10-Fat",
     "name": "Certified Ground Round 90% Lean 10% Fat",
     "domain": "hy-vee.com",
-    "current_price": "$7.99",
+    "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -13453,6 +13498,11 @@
         "date": "2026-07-06",
         "price": 7.99,
         "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 8.99,
+        "raw_price": "$8.99"
       }
     ]
   },
@@ -13463,7 +13513,7 @@
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -14569,6 +14619,11 @@
         "date": "2026-07-06",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -14576,10 +14631,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/3512698/Sara-Lee-Artesano-Brioche-Buns-8-count",
     "name": "Sara Lee Artesano Brioche Buns, 8 count, 16 oz, Bag",
     "domain": "hy-vee.com",
-    "current_price": "$4.49",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -15715,6 +15770,11 @@
         "date": "2026-07-06",
         "price": 4.49,
         "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -15725,7 +15785,7 @@
     "current_price": "$12.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-08-26",
@@ -16116,6 +16176,11 @@
         "date": "2026-07-06",
         "price": 12.99,
         "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 12.99,
+        "raw_price": "$12.99"
       }
     ]
   },
@@ -16123,10 +16188,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/371584/Wonderful-Halos-Mandarin-Oranges",
     "name": "Wonderful Halos Mandarin Oranges",
     "domain": "hy-vee.com",
-    "current_price": "$5.99",
+    "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -17157,6 +17222,11 @@
         "date": "2026-07-06",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -17167,7 +17237,7 @@
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -18188,6 +18258,11 @@
         "date": "2026-07-06",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -18198,7 +18273,7 @@
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -19339,6 +19414,11 @@
         "date": "2026-07-06",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -19346,10 +19426,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
     "name": "Boneless Skinless Chicken Breast",
     "domain": "hy-vee.com",
-    "current_price": "$4.48",
+    "current_price": "$4.88",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -20490,6 +20570,11 @@
         "date": "2026-07-06",
         "price": 4.48,
         "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4.88,
+        "raw_price": "$4.88"
       }
     ]
   },
@@ -20500,7 +20585,7 @@
     "current_price": "$1.27",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -21639,6 +21724,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-07",
         "price": 1.27,
         "raw_price": "$1.27"
       }
@@ -21651,7 +21741,7 @@
     "current_price": "3.499",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -23217,6 +23307,11 @@
         "date": "2026-07-06",
         "price": 3.499,
         "raw_price": "3.499"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.499,
+        "raw_price": "3.499"
       }
     ]
   },
@@ -23227,7 +23322,7 @@
     "current_price": "$3.54",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -24883,7 +24978,7 @@
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-06 12:12",
+    "last_updated": "2026-07-07 11:03",
     "history": [
       {
         "date": "2025-02-12",
@@ -26837,6 +26932,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-07",
         "price": 540.0,
         "raw_price": "540"
       }
