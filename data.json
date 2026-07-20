@@ -6,7 +6,7 @@
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -2057,6 +2057,11 @@
         "date": "2026-07-19",
         "price": 36.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 36.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -2067,7 +2072,7 @@
     "current_price": "798",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -2733,7 +2738,7 @@
     "current_price": "748",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -3184,7 +3189,7 @@
     "current_price": "$5.32",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -4385,6 +4390,11 @@
         "date": "2026-07-19",
         "price": 5.32,
         "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 5.32,
+        "raw_price": "$5.32"
       }
     ]
   },
@@ -4395,7 +4405,7 @@
     "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -5601,6 +5611,11 @@
         "date": "2026-07-19",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
       }
     ]
   },
@@ -5608,10 +5623,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$6.68",
+    "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -6817,6 +6832,11 @@
         "date": "2026-07-19",
         "price": 6.68,
         "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -6827,7 +6847,7 @@
     "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -8028,6 +8048,11 @@
         "date": "2026-07-19",
         "price": 5.79,
         "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 5.79,
+        "raw_price": "$5.79"
       }
     ]
   },
@@ -8038,7 +8063,7 @@
     "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -9244,6 +9269,11 @@
         "date": "2026-07-19",
         "price": 1.97,
         "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1.97,
+        "raw_price": "$1.97"
       }
     ]
   },
@@ -9254,7 +9284,7 @@
     "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -10460,6 +10490,11 @@
         "date": "2026-07-19",
         "price": 2.78,
         "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 2.78,
+        "raw_price": "$2.78"
       }
     ]
   },
@@ -10470,7 +10505,7 @@
     "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -11676,6 +11711,11 @@
         "date": "2026-07-19",
         "price": 2.97,
         "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -11686,7 +11726,7 @@
     "current_price": "$3.29",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -12885,6 +12925,11 @@
       },
       {
         "date": "2026-07-19",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-20",
         "price": 3.29,
         "raw_price": "$3.29"
       }
@@ -12897,7 +12942,7 @@
     "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -14103,6 +14148,11 @@
         "date": "2026-07-19",
         "price": 8.99,
         "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 8.99,
+        "raw_price": "$8.99"
       }
     ]
   },
@@ -14113,7 +14163,7 @@
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -15284,6 +15334,11 @@
         "date": "2026-07-19",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -15294,7 +15349,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -16495,6 +16550,11 @@
         "date": "2026-07-19",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -16505,7 +16565,7 @@
     "current_price": "$12.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-08-26",
@@ -16961,6 +17021,11 @@
         "date": "2026-07-19",
         "price": 12.99,
         "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 12.99,
+        "raw_price": "$12.99"
       }
     ]
   },
@@ -16971,7 +17036,7 @@
     "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -18067,6 +18132,11 @@
         "date": "2026-07-19",
         "price": 6.99,
         "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -18077,7 +18147,7 @@
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -19163,6 +19233,11 @@
         "date": "2026-07-19",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -19170,10 +19245,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/57770/HyVee-Light-Bartlett-Pear-Halves-In-Pear-Juice-From-Concentrate",
     "name": "Hy-Vee Light Bartlett Pear Halves In Pear Juice From Concentrate",
     "domain": "hy-vee.com",
-    "current_price": "$1.99",
+    "current_price": "$1.88",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -20379,6 +20454,11 @@
         "date": "2026-07-19",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1.88,
+        "raw_price": "$1.88"
       }
     ]
   },
@@ -20386,10 +20466,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
     "name": "Boneless Skinless Chicken Breast",
     "domain": "hy-vee.com",
-    "current_price": "$2.99",
+    "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -21595,6 +21675,11 @@
         "date": "2026-07-19",
         "price": 2.99,
         "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
       }
     ]
   },
@@ -21605,7 +21690,7 @@
     "current_price": "$0.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -22809,6 +22894,11 @@
       },
       {
         "date": "2026-07-19",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-20",
         "price": 0.99,
         "raw_price": "$0.99"
       }
@@ -22821,7 +22911,7 @@
     "current_price": "3.799",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -24452,6 +24542,11 @@
         "date": "2026-07-19",
         "price": 3.799,
         "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3.799,
+        "raw_price": "3.799"
       }
     ]
   },
@@ -24462,7 +24557,7 @@
     "current_price": "$3.54",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -26118,7 +26213,7 @@
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-07-19 09:59",
+    "last_updated": "2026-07-20 10:59",
     "history": [
       {
         "date": "2025-02-12",
@@ -28137,6 +28232,11 @@
       },
       {
         "date": "2026-07-19",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-20",
         "price": 540.0,
         "raw_price": "540"
       }
