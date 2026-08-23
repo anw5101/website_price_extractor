@@ -6,7 +6,7 @@
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -2222,6 +2222,11 @@
         "date": "2026-08-22",
         "price": 36.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 36.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -2232,7 +2237,7 @@
     "current_price": "798",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -2898,7 +2903,7 @@
     "current_price": "748",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -3349,7 +3354,7 @@
     "current_price": "$4.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -4713,6 +4718,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-23",
         "price": 4.78,
         "raw_price": "$4.78"
       }
@@ -4725,7 +4735,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -6094,6 +6104,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-23",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -6103,10 +6118,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$8.49",
+    "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -7477,6 +7492,11 @@
         "date": "2026-08-22",
         "price": 8.49,
         "raw_price": "$8.49"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -7484,10 +7504,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/23969/HyVee-Oven-Roasted-Cured-Turkey-Breast-And-White-Turkey-Shaved-Slices",
     "name": "Hy-Vee Oven Roasted Cured Turkey Breast & White Turkey Shaved Slices",
     "domain": "hy-vee.com",
-    "current_price": "$5.99",
+    "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -8853,6 +8873,11 @@
         "date": "2026-08-22",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 5.79,
+        "raw_price": "$5.79"
       }
     ]
   },
@@ -8860,10 +8885,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2849570/Thats-Smart-Large-Shell-Eggs",
     "name": "That's Smart! Large Shell Eggs",
     "domain": "hy-vee.com",
-    "current_price": "$1.96",
+    "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -10234,6 +10259,11 @@
         "date": "2026-08-22",
         "price": 1.96,
         "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
       }
     ]
   },
@@ -10241,10 +10271,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2869496/Thats-Smart-Fat-Free-Skim-Milk",
     "name": "That's Smart! Fat Free Skim Milk",
     "domain": "hy-vee.com",
-    "current_price": "$2.75",
+    "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -11615,6 +11645,11 @@
         "date": "2026-08-22",
         "price": 2.75,
         "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
       }
     ]
   },
@@ -11622,10 +11657,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2886456/Thats-Smart-Mayonnaise",
     "name": "That's Smart! Mayonnaise",
     "domain": "hy-vee.com",
-    "current_price": "$3.37",
+    "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -12996,6 +13031,11 @@
         "date": "2026-08-22",
         "price": 3.37,
         "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -13003,10 +13043,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/2912532/Thats-Smart-Small-Curd-Cottage-Cheese-4-Milkfat",
     "name": "That's Smart! Small Curd Cottage Cheese 4% Milkfat",
     "domain": "hy-vee.com",
-    "current_price": "$2.99",
+    "current_price": "$3.29",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -14372,6 +14412,11 @@
         "date": "2026-08-22",
         "price": 2.99,
         "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.29,
+        "raw_price": "$3.29"
       }
     ]
   },
@@ -14379,10 +14424,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/31823/Certified-Ground-Round-90-Lean-10-Fat",
     "name": "Certified Ground Round 90% Lean 10% Fat",
     "domain": "hy-vee.com",
-    "current_price": "$7.99",
+    "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -15753,6 +15798,11 @@
         "date": "2026-08-22",
         "price": 7.99,
         "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
       }
     ]
   },
@@ -15763,7 +15813,7 @@
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -17099,6 +17149,11 @@
         "date": "2026-08-22",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -17106,10 +17161,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/3512698/Sara-Lee-Artesano-Brioche-Buns-8-count",
     "name": "Sara Lee Artesano Brioche Buns, 8 count, 16 oz, Bag",
     "domain": "hy-vee.com",
-    "current_price": "$4.49",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -18475,6 +18530,11 @@
         "date": "2026-08-22",
         "price": 4.49,
         "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -18485,7 +18545,7 @@
     "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-08-26",
@@ -19104,6 +19164,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-23",
         "price": 14.96,
         "raw_price": "$14.96"
       }
@@ -19116,7 +19181,7 @@
     "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -20377,6 +20442,11 @@
         "date": "2026-08-22",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -20387,7 +20457,7 @@
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -21638,6 +21708,11 @@
         "date": "2026-08-22",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -21648,7 +21723,7 @@
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -23019,6 +23094,11 @@
         "date": "2026-08-22",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -23029,7 +23109,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -24400,6 +24480,11 @@
         "date": "2026-08-22",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -24407,10 +24492,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/8657/Roma-Tomatoes",
     "name": "Roma Tomatoes",
     "domain": "hy-vee.com",
-    "current_price": "$1.27",
+    "current_price": "$0.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -25781,6 +25866,11 @@
         "date": "2026-08-22",
         "price": 1.27,
         "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 0.97,
+        "raw_price": "$0.97"
       }
     ]
   },
@@ -25788,10 +25878,10 @@
     "url": "https://www.kwiktrip.com/locator/store?id=1056",
     "name": "KWIK STAR #1056",
     "domain": "kwiktrip.com",
-    "current_price": "4.129",
+    "current_price": "4.099",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -27587,6 +27677,11 @@
         "date": "2026-08-22",
         "price": 4.129,
         "raw_price": "4.129"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4.099,
+        "raw_price": "4.099"
       }
     ]
   },
@@ -27596,8 +27691,8 @@
     "domain": "menards.com",
     "current_price": "$3.54",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=151.0.7922.173)\nStacktrace:\n#0 0x5630c695036a <unknown>\n#1 0x5630c62c3f49 <unknown>\n#2 0x5630c62ab99b <unknown>\n#3 0x5630c62ab616 <unknown>\n#4 0x5630c62a91fe <unknown>\n#5 0x5630c62a9b7f <unknown>\n#6 0x5630c62b8cf0 <unknown>\n#7 0x5630c62d2cb7 <unknown>\n#8 0x5630c62da68b <unknown>\n#9 0x5630c62aa2d9 <unknown>\n#10 0x5630c62d2a12 <unknown>\n#11 0x5630c6361f86 <unknown>\n#12 0x5630c630cc92 <unknown>\n#13 0x5630c630db11 <unknown>\n#14 0x5630c69158d0 <unknown>\n#15 0x5630c6913f3a <unknown>\n#16 0x5630c68fe9b5 <unknown>\n#17 0x5630c6914c0a <unknown>\n#18 0x5630c68e6740 <unknown>\n#19 0x5630c693b9a8 <unknown>\n#20 0x5630c693bb45 <unknown>\n#21 0x5630c694ef1e <unknown>\n#22 0x7fc8ad09cb84 <unknown>\n#23 0x7fc8ad129d6c <unknown>\n",
-    "last_updated": "2026-08-22 08:34",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=151.0.7922.173)\nStacktrace:\n#0 0x558b4191836a <unknown>\n#1 0x558b4128bf49 <unknown>\n#2 0x558b4127399b <unknown>\n#3 0x558b41273616 <unknown>\n#4 0x558b412711fe <unknown>\n#5 0x558b41271b7f <unknown>\n#6 0x558b41280cf0 <unknown>\n#7 0x558b4129acb7 <unknown>\n#8 0x558b412a268b <unknown>\n#9 0x558b412722d9 <unknown>\n#10 0x558b4129aa12 <unknown>\n#11 0x558b41329f86 <unknown>\n#12 0x558b412d4c92 <unknown>\n#13 0x558b412d5b11 <unknown>\n#14 0x558b418dd8d0 <unknown>\n#15 0x558b418dbf3a <unknown>\n#16 0x558b418c69b5 <unknown>\n#17 0x558b418dcc0a <unknown>\n#18 0x558b418ae740 <unknown>\n#19 0x558b419039a8 <unknown>\n#20 0x558b41903b45 <unknown>\n#21 0x558b41916f1e <unknown>\n#22 0x7f16e789cb84 <unknown>\n#23 0x7f16e7929d6c <unknown>\n",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
@@ -29251,9 +29346,9 @@
     "name": "2026 Ram 1500",
     "domain": "ramtrucks.com",
     "current_price": "540",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-08-22 08:34",
+    "status": "xpath_error",
+    "error_message": "Price XPath could not be resolved or recovered.",
+    "last_updated": "2026-08-23 08:34",
     "history": [
       {
         "date": "2025-02-12",
