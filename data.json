@@ -6,7 +6,7 @@
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -2232,6 +2232,11 @@
         "date": "2026-08-24",
         "price": 36.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 36.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -2242,7 +2247,7 @@
     "current_price": "798",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -2908,7 +2913,7 @@
     "current_price": "748",
     "status": "xpath_error",
     "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -3359,7 +3364,7 @@
     "current_price": "$4.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -4733,6 +4738,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-25",
         "price": 4.78,
         "raw_price": "$4.78"
       }
@@ -4745,7 +4755,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -6124,6 +6134,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -6136,7 +6151,7 @@
     "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -7515,6 +7530,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-25",
         "price": 6.99,
         "raw_price": "$6.99"
       }
@@ -7527,7 +7547,7 @@
     "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -8901,6 +8921,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-25",
         "price": 5.79,
         "raw_price": "$5.79"
       }
@@ -8913,7 +8938,7 @@
     "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -10292,6 +10317,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-25",
         "price": 1.97,
         "raw_price": "$1.97"
       }
@@ -10304,7 +10334,7 @@
     "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -11683,6 +11713,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-25",
         "price": 2.78,
         "raw_price": "$2.78"
       }
@@ -11695,7 +11730,7 @@
     "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -13074,6 +13109,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-25",
         "price": 2.97,
         "raw_price": "$2.97"
       }
@@ -13086,7 +13126,7 @@
     "current_price": "$3.29",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -14460,6 +14500,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-25",
         "price": 3.29,
         "raw_price": "$3.29"
       }
@@ -14472,7 +14517,7 @@
     "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -15851,6 +15896,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-25",
         "price": 8.99,
         "raw_price": "$8.99"
       }
@@ -15863,7 +15913,7 @@
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -17207,6 +17257,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-25",
         "price": 4.97,
         "raw_price": "$4.97"
       }
@@ -17219,7 +17274,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -18593,6 +18648,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -18605,7 +18665,7 @@
     "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-08-26",
@@ -19236,6 +19296,11 @@
         "date": "2026-08-24",
         "price": 14.96,
         "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 14.96,
+        "raw_price": "$14.96"
       }
     ]
   },
@@ -19246,7 +19311,7 @@
     "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -20517,6 +20582,11 @@
         "date": "2026-08-24",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -20527,7 +20597,7 @@
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -21788,6 +21858,11 @@
         "date": "2026-08-24",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -21798,7 +21873,7 @@
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -23179,6 +23254,11 @@
         "date": "2026-08-24",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -23189,7 +23269,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -24570,6 +24650,11 @@
         "date": "2026-08-24",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -24580,7 +24665,7 @@
     "current_price": "$0.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -25961,6 +26046,11 @@
         "date": "2026-08-24",
         "price": 0.97,
         "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 0.97,
+        "raw_price": "$0.97"
       }
     ]
   },
@@ -25971,7 +26061,7 @@
     "current_price": "4.049",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -27777,6 +27867,11 @@
         "date": "2026-08-24",
         "price": 4.049,
         "raw_price": "4.049"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4.049,
+        "raw_price": "4.049"
       }
     ]
   },
@@ -27786,8 +27881,8 @@
     "domain": "menards.com",
     "current_price": "$3.54",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=151.0.7922.173)\nStacktrace:\n#0 0x55694efcd36a <unknown>\n#1 0x55694e940f49 <unknown>\n#2 0x55694e92899b <unknown>\n#3 0x55694e928616 <unknown>\n#4 0x55694e9261fe <unknown>\n#5 0x55694e926b7f <unknown>\n#6 0x55694e935cf0 <unknown>\n#7 0x55694e94fcb7 <unknown>\n#8 0x55694e95768b <unknown>\n#9 0x55694e9272d9 <unknown>\n#10 0x55694e94fa12 <unknown>\n#11 0x55694e9def86 <unknown>\n#12 0x55694e989c92 <unknown>\n#13 0x55694e98ab11 <unknown>\n#14 0x55694ef928d0 <unknown>\n#15 0x55694ef90f3a <unknown>\n#16 0x55694ef7b9b5 <unknown>\n#17 0x55694ef91c0a <unknown>\n#18 0x55694ef63740 <unknown>\n#19 0x55694efb89a8 <unknown>\n#20 0x55694efb8b45 <unknown>\n#21 0x55694efcbf1e <unknown>\n#22 0x7f928409cb84 <unknown>\n#23 0x7f9284129d6c <unknown>\n",
-    "last_updated": "2026-08-24 08:54",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=151.0.7922.173)\nStacktrace:\n#0 0x560eb0efd36a <unknown>\n#1 0x560eb0870f49 <unknown>\n#2 0x560eb085899b <unknown>\n#3 0x560eb0858616 <unknown>\n#4 0x560eb08561fe <unknown>\n#5 0x560eb0856b7f <unknown>\n#6 0x560eb0865cf0 <unknown>\n#7 0x560eb087fcb7 <unknown>\n#8 0x560eb088768b <unknown>\n#9 0x560eb08572d9 <unknown>\n#10 0x560eb087fa12 <unknown>\n#11 0x560eb090ef86 <unknown>\n#12 0x560eb08b9c92 <unknown>\n#13 0x560eb08bab11 <unknown>\n#14 0x560eb0ec28d0 <unknown>\n#15 0x560eb0ec0f3a <unknown>\n#16 0x560eb0eab9b5 <unknown>\n#17 0x560eb0ec1c0a <unknown>\n#18 0x560eb0e93740 <unknown>\n#19 0x560eb0ee89a8 <unknown>\n#20 0x560eb0ee8b45 <unknown>\n#21 0x560eb0efbf1e <unknown>\n#22 0x7f7eae69cb84 <unknown>\n#23 0x7f7eae729d6c <unknown>\n",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -29443,7 +29538,7 @@
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-08-24 08:54",
+    "last_updated": "2026-08-25 08:47",
     "history": [
       {
         "date": "2025-02-12",
@@ -31632,6 +31727,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-25",
         "price": 540.0,
         "raw_price": "540"
       }
