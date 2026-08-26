@@ -182,6 +182,48 @@ def extract_json_ld_metadata(html_content):
             
     return extracted_name, extracted_price
 
+def ai_fallback_extraction(page_text, url):
+    """Uses Gemini AI to intelligently extract product name and price from page text."""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return None, None
+        
+    try:
+        from google import genai
+        from google.genai import types
+        from pydantic import BaseModel, Field
+        
+        class ProductData(BaseModel):
+            product_name: str = Field(description="The name of the product")
+            price: str = Field(description="The current price of the product as a string (e.g. '$3.99' or '3.99')")
+            
+        client = genai.Client(api_key=api_key)
+        
+        # Limit text to ~15000 chars to avoid overwhelming the prompt if it's too large, though Gemini handles large contexts well.
+        prompt = f"Extract the primary product name and current price from the following webpage text for the URL: {url}\\n\\nWebpage Text:\\n{page_text[:20000]}"
+        
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                response_schema=ProductData,
+                temperature=0.1,
+            ),
+        )
+        
+        if response.text:
+            data = json.loads(response.text)
+            name = data.get("product_name")
+            price = data.get("price")
+            # Basic validation to avoid returning empty or fallback AI strings
+            if name and len(name) > 2 and price:
+                return name, price
+    except Exception as e:
+        print(f"  [AI Fallback Error] {e}")
+        
+    return None, None
+
 def update_excel_and_json(data):
     """Updates the historical Excel sheet and compiles dashboard-ready JSON data."""
     # Resolve base_path dynamically to the current directory of this script
@@ -444,6 +486,30 @@ def main_scraper_function():
                             except Exception:
                                 pass
                                 
+                        # Fallback C: Gemini AI Text Parsing
+                        if xpath_name_failed or xpath_price_failed:
+                            if os.environ.get("GEMINI_API_KEY"):
+                                print("  🧠 Activating Gemini AI LLM fallback...")
+                                try:
+                                    page_text = driver.find_element(By.TAG_NAME, "body").text
+                                    ai_name, ai_price = ai_fallback_extraction(page_text, url)
+                                    
+                                    if xpath_name_failed and ai_name:
+                                        ai_name_valid, _ = validate_product_name(ai_name)
+                                        if ai_name_valid:
+                                            scraped_name = ai_name
+                                            xpath_name_failed = False
+                                            print(f"  ✨ Recovered Product Name from Gemini AI: '{scraped_name}'")
+                                            
+                                    if xpath_price_failed and ai_price:
+                                        ai_price_valid, _ = validate_price(ai_price)
+                                        if ai_price_valid:
+                                            scraped_price = ai_price
+                                            xpath_price_failed = False
+                                            print(f"  ✨ Recovered Price from Gemini AI: '{scraped_price}'")
+                                except Exception as e:
+                                    print(f"  [AI Fallback Runtime Error] {e}")
+                                    
                     # 3. Final Validation & State Resolution
                     name_valid, name_reason = validate_product_name(scraped_name)
                     price_valid, price_reason = validate_price(scraped_price)

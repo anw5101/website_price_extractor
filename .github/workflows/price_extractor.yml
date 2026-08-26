@@ -42,6 +42,8 @@ jobs:
 
 
       - name: Run Price Extractor Scraper
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python price_extractor_manual_excel_input.py
 
@@ -51,7 +53,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Stage the output files
-          git add price_extractor.xlsx data.json
+          git add price_extractor.xlsx data.json data.js
           
           # Check if there are changes to commit
           if git diff-index --quiet HEAD; then

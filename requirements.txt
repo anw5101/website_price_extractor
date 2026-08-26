@@ -3,3 +3,4 @@ openpyxl
 selenium
 selenium-stealth
 webdriver-manager
+google-genai
