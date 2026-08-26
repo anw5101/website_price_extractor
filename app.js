@@ -3,7 +3,7 @@
  * Vanilla ES6 Logic with dynamic state filtering, metrics rendering, and ChartJS integration.
  */
 
-document.addEventListener("DOMContentLoaded", () => {
+function initApp() {
     // 1. STATE CONFIGURATION
     let allProducts = [];
     let filteredProducts = [];
@@ -517,4 +517,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Run core engine bootstrapper
     bootstrap();
-});
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initApp);
+} else {
+    initApp();
+}
