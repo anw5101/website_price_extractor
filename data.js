@@ -6,7 +6,7 @@ const priceTrackerData = [
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -1802,6 +1802,446 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 36.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 36.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 36.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -1810,9 +2250,9 @@ const priceTrackerData = [
     "name": "5.5 cu.ft. Extra-Large Capacity Smart Top Load Washer with Super Speed in White",
     "domain": "homedepot.com",
     "current_price": "798",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "status": "xpath_error",
+    "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -2476,9 +2916,9 @@ const priceTrackerData = [
     "name": "7.4 cu. ft. Vented Smart Front Load Electric Dryer with Steam Sanitize+ in White",
     "domain": "homedepot.com",
     "current_price": "748",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "status": "xpath_error",
+    "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -2926,10 +3366,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/1415790/Fairlife-Fat-Free-UltraFiltered-Milk",
     "name": "Fairlife Fat Free Ultra-Filtered Milk, Lactose Free, 52 fl oz",
     "domain": "hy-vee.com",
-    "current_price": "$5.32",
+    "current_price": "$4.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -3870,6 +4310,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 5.32,
         "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4.78,
+        "raw_price": "$4.78"
       }
     ]
   },
@@ -3880,7 +4765,7 @@ const priceTrackerData = [
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -4824,6 +5709,451 @@ const priceTrackerData = [
       },
       {
         "date": "2026-05-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.97,
+        "raw_price": "$3.97"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-26",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -4833,10 +6163,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$6.99",
+    "current_price": "$8.49",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -5782,6 +7112,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 6.99,
         "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 8.49,
+        "raw_price": "$8.49"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 6.68,
+        "raw_price": "$6.68"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 8.49,
+        "raw_price": "$8.49"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 8.49,
+        "raw_price": "$8.49"
       }
     ]
   },
@@ -5789,10 +7564,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/23969/HyVee-Oven-Roasted-Cured-Turkey-Breast-And-White-Turkey-Shaved-Slices",
     "name": "Hy-Vee Oven Roasted Cured Turkey Breast & White Turkey Shaved Slices",
     "domain": "hy-vee.com",
-    "current_price": "$5.79",
+    "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -6733,6 +8508,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 5.79,
         "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -6740,10 +8960,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2849570/Thats-Smart-Large-Shell-Eggs",
     "name": "That's Smart! Large Shell Eggs",
     "domain": "hy-vee.com",
-    "current_price": "$1.97",
+    "current_price": "$1.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -7689,6 +9909,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 1.97,
         "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1.96,
+        "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1.96,
+        "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1.96,
+        "raw_price": "$1.96"
       }
     ]
   },
@@ -7696,10 +10361,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2869496/Thats-Smart-Fat-Free-Skim-Milk",
     "name": "That's Smart! Fat Free Skim Milk",
     "domain": "hy-vee.com",
-    "current_price": "$2.78",
+    "current_price": "$2.75",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -8645,6 +11310,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 2.78,
         "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 2.75,
+        "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 2.75,
+        "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 2.75,
+        "raw_price": "$2.75"
       }
     ]
   },
@@ -8652,10 +11762,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2886456/Thats-Smart-Mayonnaise",
     "name": "That's Smart! Mayonnaise",
     "domain": "hy-vee.com",
-    "current_price": "$2.97",
+    "current_price": "$3.37",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -9601,6 +12711,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 2.97,
         "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 3.37,
+        "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 3.37,
+        "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 3.37,
+        "raw_price": "$3.37"
       }
     ]
   },
@@ -9608,10 +13163,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2912532/Thats-Smart-Small-Curd-Cottage-Cheese-4-Milkfat",
     "name": "That's Smart! Small Curd Cottage Cheese 4% Milkfat",
     "domain": "hy-vee.com",
-    "current_price": "$3.29",
+    "current_price": "$2.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -10552,6 +14107,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 3.29,
         "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 2.99,
+        "raw_price": "$2.99"
       }
     ]
   },
@@ -10562,7 +14562,7 @@ const priceTrackerData = [
     "current_price": "$7.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -11508,6 +15508,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 7.99,
         "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 7.99,
+        "raw_price": "$7.99"
       }
     ]
   },
@@ -11518,7 +15963,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -12429,6 +16874,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -12436,10 +17326,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3512698/Sara-Lee-Artesano-Brioche-Buns-8-count",
     "name": "Sara Lee Artesano Brioche Buns, 8 count, 16 oz, Bag",
     "domain": "hy-vee.com",
-    "current_price": "$3.99",
+    "current_price": "$4.49",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -13380,6 +18270,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 3.49,
+        "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 4.49,
+        "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4.49,
+        "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 4.49,
+        "raw_price": "$4.49"
       }
     ]
   },
@@ -13387,10 +18722,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3594226/Folgers-Coffee-Classic-Roast-Ground-Medium",
     "name": "Folgers Coffee, Classic Roast Ground, Medium",
     "domain": "hy-vee.com",
-    "current_price": "$13.61",
+    "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-08-26",
@@ -13586,6 +18921,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 13.61,
         "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 13.61,
+        "raw_price": "$13.61"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 15.49,
+        "raw_price": "$15.49"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 12.99,
+        "raw_price": "$12.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 14.96,
+        "raw_price": "$14.96"
       }
     ]
   },
@@ -13596,7 +19376,7 @@ const priceTrackerData = [
     "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -14432,6 +20212,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -14442,7 +20667,7 @@ const priceTrackerData = [
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -15268,6 +21493,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -15275,10 +21945,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/57770/HyVee-Light-Bartlett-Pear-Halves-In-Pear-Juice-From-Concentrate",
     "name": "Hy-Vee Light Bartlett Pear Halves In Pear Juice From Concentrate",
     "domain": "hy-vee.com",
-    "current_price": "$1.89",
+    "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -16224,6 +22894,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 1.89,
         "raw_price": "$1.89"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 1.89,
+        "raw_price": "$1.89"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 1.89,
+        "raw_price": "$1.89"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 1.89,
+        "raw_price": "$1.89"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 1.88,
+        "raw_price": "$1.88"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 1.79,
+        "raw_price": "$1.79"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -16231,10 +23346,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
     "name": "Boneless Skinless Chicken Breast",
     "domain": "hy-vee.com",
-    "current_price": "$4.99",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -17180,6 +24295,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 4.48,
+        "raw_price": "$4.48"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 4.88,
+        "raw_price": "$4.88"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -17190,7 +24750,7 @@ const priceTrackerData = [
     "current_price": "$1.27",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -18136,6 +25696,451 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 1.27,
         "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 0.99,
+        "raw_price": "$0.99"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 1.28,
+        "raw_price": "$1.28"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 1.27,
+        "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 1.27,
+        "raw_price": "$1.27"
       }
     ]
   },
@@ -18146,7 +26151,7 @@ const priceTrackerData = [
     "current_price": "3.999",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -19522,6 +27527,446 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 3.999,
         "raw_price": "3.999"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 3.949,
+        "raw_price": "3.949"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 3.859,
+        "raw_price": "3.859"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 3.839,
+        "raw_price": "3.839"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 3.819,
+        "raw_price": "3.819"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 3.699,
+        "raw_price": "3.699"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 3.699,
+        "raw_price": "3.699"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.699,
+        "raw_price": "3.699"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.599,
+        "raw_price": "3.599"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 3.579,
+        "raw_price": "3.579"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 3.549,
+        "raw_price": "3.549"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 3.529,
+        "raw_price": "3.529"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 3.479,
+        "raw_price": "3.479"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 3.449,
+        "raw_price": "3.449"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 3.449,
+        "raw_price": "3.449"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 3.399,
+        "raw_price": "3.399"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 3.449,
+        "raw_price": "3.449"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 3.449,
+        "raw_price": "3.449"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 3.399,
+        "raw_price": "3.399"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 3.599,
+        "raw_price": "3.599"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 3.599,
+        "raw_price": "3.599"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 3.599,
+        "raw_price": "3.599"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 3.599,
+        "raw_price": "3.599"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 3.499,
+        "raw_price": "3.499"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 3.899,
+        "raw_price": "3.899"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 3.899,
+        "raw_price": "3.899"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 3.899,
+        "raw_price": "3.899"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 3.779,
+        "raw_price": "3.779"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 3.899,
+        "raw_price": "3.899"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 3.899,
+        "raw_price": "3.899"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 3.849,
+        "raw_price": "3.849"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 3.799,
+        "raw_price": "3.799"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 3.749,
+        "raw_price": "3.749"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 3.699,
+        "raw_price": "3.699"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 3.679,
+        "raw_price": "3.679"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 3.679,
+        "raw_price": "3.679"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 3.649,
+        "raw_price": "3.649"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 3.649,
+        "raw_price": "3.649"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 3.949,
+        "raw_price": "3.949"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 3.889,
+        "raw_price": "3.889"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 3.889,
+        "raw_price": "3.889"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 4.199,
+        "raw_price": "4.199"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 4.149,
+        "raw_price": "4.149"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 4.129,
+        "raw_price": "4.129"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 4.129,
+        "raw_price": "4.129"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 4.099,
+        "raw_price": "4.099"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 4.049,
+        "raw_price": "4.049"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 4.049,
+        "raw_price": "4.049"
+      },
+      {
+        "date": "2026-08-26",
+        "price": 3.999,
+        "raw_price": "3.999"
       }
     ]
   },
@@ -19529,10 +27974,10 @@ const priceTrackerData = [
     "url": "https://www.menards.com/main/building-materials/lumber-boards/dimensional-lumber/2-x-4-construction-framing-lumber/1021101/p-1444451086852-c-13125.htm",
     "name": "2 x 4 x 8' Construction/Framing Lumber",
     "domain": "menards.com",
-    "current_price": "$3.98",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "current_price": "$3.54",
+    "status": "failed",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=152.0.7977.64)\nStacktrace:\n#0 0x55c7bae89f5a <unknown>\n#1 0x55c7ba7f2499 <unknown>\n#2 0x55c7ba7d9f1b <unknown>\n#3 0x55c7ba7d9b96 <unknown>\n#4 0x55c7ba7d7778 <unknown>\n#5 0x55c7ba7d80ff <unknown>\n#6 0x55c7ba7e71d0 <unknown>\n#7 0x55c7ba8010f7 <unknown>\n#8 0x55c7ba808adb <unknown>\n#9 0x55c7ba7d8859 <unknown>\n#10 0x55c7ba800e52 <unknown>\n#11 0x55c7ba89044c <unknown>\n#12 0x55c7ba83b81b <unknown>\n#13 0x55c7ba83c601 <unknown>\n#14 0x55c7bae4e120 <unknown>\n#15 0x55c7bae4c79a <unknown>\n#16 0x55c7bae374e5 <unknown>\n#17 0x55c7bae4d45a <unknown>\n#18 0x55c7bae207d0 <unknown>\n#19 0x55c7bae75048 <unknown>\n#20 0x55c7bae751e5 <unknown>\n#21 0x55c7bae88ae3 <unknown>\n#22 0x7feacd49cb84 <unknown>\n#23 0x7feacd529d6c <unknown>\n",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -21028,6 +29473,156 @@ const priceTrackerData = [
         "date": "2026-05-29",
         "price": 3.98,
         "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 3.98,
+        "raw_price": "$3.98"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 3.54,
+        "raw_price": "$3.54"
       }
     ]
   },
@@ -21038,7 +29633,7 @@ const priceTrackerData = [
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-05-29 08:27",
+    "last_updated": "2026-08-26 03:05",
     "history": [
       {
         "date": "2025-02-12",
@@ -22797,6 +31392,446 @@ const priceTrackerData = [
       },
       {
         "date": "2026-05-29",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-05-29",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-05-30",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-05-31",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-01",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-02",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-04",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-06",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-11",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-12",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-14",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-15",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-18",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-21",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-25",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-26",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-06-30",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-01",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-02",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-05",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-11",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-13",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-16",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-20",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-23",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-24",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-25",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-27",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-28",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-30",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-01",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-02",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-05",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-07",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-08",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-09",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-10",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-13",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-15",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-17",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-18",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-20",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-08-26",
         "price": 540.0,
         "raw_price": "540"
       }
