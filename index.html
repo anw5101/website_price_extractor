@@ -191,7 +191,20 @@
     </div>
 
     <!-- Main JavaScript Logic -->
-    <script src="data.js"></script>
-    <script src="app.js"></script>
+    <script>
+        // Dynamically load data.js and app.js with cache-busting timestamps
+        // This ensures the browser always fetches the latest data instead of serving a stale cached version
+        const cacheBuster = new Date().getTime();
+        
+        const dataScript = document.createElement('script');
+        dataScript.src = 'data.js?v=' + cacheBuster;
+        document.body.appendChild(dataScript);
+        
+        dataScript.onload = () => {
+            const appScript = document.createElement('script');
+            appScript.src = 'app.js?v=' + cacheBuster;
+            document.body.appendChild(appScript);
+        };
+    </script>
 </body>
 </html>
