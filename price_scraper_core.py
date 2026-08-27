@@ -65,7 +65,12 @@ def initialize_driver():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-gpu")
     options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--headless")  # Headless mode for cloud and background execution
+    
+    # Toggle Headless mode for local debugging (default to headless for cloud)
+    headless_mode = os.environ.get("HEADLESS_MODE", "True").lower() == "true"
+    if headless_mode:
+        options.add_argument("--headless=new")
+        
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
     
     service = Service(ChromeDriverManager().install())
@@ -141,12 +146,30 @@ def clean_price_to_float(price_str):
             if nums:
                 return float(nums[0]) / 100.0
         
-        # Standard decimal/integer search
-        nums = re.findall(r'\d+(?:\.\d+)?', s)
+        # Remove commas to allow standard decimal/integer search for thousands
+        s_no_commas = s.replace(",", "")
+        nums = re.findall(r'\d+(?:\.\d+)?', s_no_commas)
         if nums:
             return float(nums[0])
     except Exception:
         pass
+    return None
+
+def scraper_api_fetch(url):
+    """Fallback proxy fetch utilizing ScraperAPI for heavily blocked domains."""
+    api_key = os.environ.get("SCRAPER_API_KEY")
+    if not api_key:
+        return None
+        
+    print(f"  🤖 Activating ScraperAPI fallback proxy for: {url}")
+    try:
+        import requests
+        payload = {'api_key': api_key, 'url': url, 'render': 'true'}
+        r = requests.get('http://api.scraperapi.com', params=payload, timeout=45)
+        if r.status_code == 200:
+            return r.text
+    except Exception as e:
+        print(f"  [ScraperAPI Error] {e}")
     return None
 
 def extract_json_ld_metadata(html_content):
@@ -382,7 +405,11 @@ def main_scraper_function():
             error_message = ""
             
             try:
-                driver.get(url)
+                try:
+                    driver.get(url)
+                except Exception as e:
+                    print(f"  [Timeout/Load Warning] {e}, attempting to proceed with whatever loaded...")
+                
                 # Mimic standard network wait
                 time.sleep(3)
                 
@@ -394,9 +421,23 @@ def main_scraper_function():
                     "cloudflare" in page_title or 
                     "verify you are human" in page_title or 
                     "just a moment" in page_title or
+                    "error page" in page_title or
+                    "pardon our interruption" in page_title or
                     "checking your browser" in body_text or
                     "access denied" in body_text
                 )
+                
+                html_content = driver.page_source
+                page_text = driver.find_element(By.TAG_NAME, "body").text
+                
+                # If blocked, attempt ScraperAPI fallback first
+                if cloudflare_blocked and os.environ.get("SCRAPER_API_KEY"):
+                    scraper_html = scraper_api_fetch(url)
+                    if scraper_html:
+                        html_content = scraper_html
+                        page_text = "" # Could parse scraper_html text if needed, but JSON-LD handles most
+                        cloudflare_blocked = False
+                        print("  ✅ Bypassed block using ScraperAPI.")
                 
                 if cloudflare_blocked:
                     status = "blocked"
@@ -440,7 +481,7 @@ def main_scraper_function():
                         print("  🔍 Primary XPath failed/returned invalid data. Activating self-healing fallback system...")
                         
                         # Fallback A: JSON-LD metadata parsing
-                        html_content = driver.page_source
+                        # html_content is already captured above (potentially from ScraperAPI)
                         json_name, json_price = extract_json_ld_metadata(html_content)
                         
                         if xpath_name_failed and json_name:
@@ -491,7 +532,11 @@ def main_scraper_function():
                             if os.environ.get("GEMINI_API_KEY"):
                                 print("  🧠 Activating Gemini AI LLM fallback...")
                                 try:
-                                    page_text = driver.find_element(By.TAG_NAME, "body").text
+                                    if not page_text and html_content:
+                                        import re
+                                        page_text = re.sub(r'<[^>]+>', ' ', html_content)
+                                    elif not page_text:
+                                        page_text = driver.find_element(By.TAG_NAME, "body").text
                                     ai_name, ai_price = ai_fallback_extraction(page_text, url)
                                     
                                     if xpath_name_failed and ai_name:

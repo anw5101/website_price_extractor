@@ -4,3 +4,6 @@ selenium
 selenium-stealth
 webdriver-manager
 google-genai
+pydantic
+pydantic
+requests
