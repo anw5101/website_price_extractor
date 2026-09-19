@@ -430,7 +430,6 @@ def main_scraper_function():
                 html_content = driver.page_source
                 page_text = driver.find_element(By.TAG_NAME, "body").text
                 
-                # If blocked, attempt ScraperAPI fallback first
                 if cloudflare_blocked and os.environ.get("SCRAPER_API_KEY"):
                     scraper_html = scraper_api_fetch(url)
                     if scraper_html:
@@ -438,6 +437,13 @@ def main_scraper_function():
                         page_text = "" # Could parse scraper_html text if needed, but JSON-LD handles most
                         cloudflare_blocked = False
                         print("  ✅ Bypassed block using ScraperAPI.")
+                        # Inject ScraperAPI HTML back into the driver so XPaths work!
+                        try:
+                            driver.execute_script("document.open(); document.write(arguments[0]); document.close();", scraper_html)
+                            # Re-fetch page_text from the newly injected DOM
+                            page_text = driver.find_element(By.TAG_NAME, "body").text
+                        except Exception as e:
+                            print(f"  [ScraperAPI DOM Inject Error] {e}")
                 
                 if cloudflare_blocked:
                     status = "blocked"

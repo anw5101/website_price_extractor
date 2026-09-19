@@ -44,6 +44,7 @@ jobs:
       - name: Run Price Extractor Scraper
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: |
           python price_extractor_manual_excel_input.py
 
