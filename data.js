@@ -6,7 +6,7 @@ const priceTrackerData = [
     "current_price": "$36,900*",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -2382,6 +2382,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 36900.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
       }
     ]
   },
@@ -2392,7 +2397,7 @@ const priceTrackerData = [
     "current_price": "798",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -3058,7 +3063,7 @@ const priceTrackerData = [
     "current_price": "748",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -3509,7 +3514,7 @@ const priceTrackerData = [
     "current_price": "$4.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -5033,6 +5038,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-20",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-21",
         "price": 4.78,
         "raw_price": "$4.78"
       }
@@ -5042,10 +5052,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/1882763/Dole-Fresh-Romaine-Hearts",
     "name": "Dole Fresh Romaine Hearts",
     "domain": "hy-vee.com",
-    "current_price": "$3.49",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -6576,6 +6586,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 3.49,
         "raw_price": "$3.49"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -6583,10 +6598,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$8.49",
+    "current_price": "$6.88",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -8117,6 +8132,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 8.49,
         "raw_price": "$8.49"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 6.88,
+        "raw_price": "$6.88"
       }
     ]
   },
@@ -8124,10 +8144,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/23969/HyVee-Oven-Roasted-Cured-Turkey-Breast-And-White-Turkey-Shaved-Slices",
     "name": "Hy-Vee Oven Roasted Cured Turkey Breast & White Turkey Shaved Slices",
     "domain": "hy-vee.com",
-    "current_price": "$5.99",
+    "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -9653,6 +9673,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 5.79,
+        "raw_price": "$5.79"
       }
     ]
   },
@@ -9660,10 +9685,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2849570/Thats-Smart-Large-Shell-Eggs",
     "name": "That's Smart! Large Shell Eggs",
     "domain": "hy-vee.com",
-    "current_price": "$1.96",
+    "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -11194,6 +11219,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 1.96,
         "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1.97,
+        "raw_price": "$1.97"
       }
     ]
   },
@@ -11201,10 +11231,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2869496/Thats-Smart-Fat-Free-Skim-Milk",
     "name": "That's Smart! Fat Free Skim Milk",
     "domain": "hy-vee.com",
-    "current_price": "$2.75",
+    "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -12735,6 +12765,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 2.75,
         "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 2.78,
+        "raw_price": "$2.78"
       }
     ]
   },
@@ -12742,10 +12777,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2886456/Thats-Smart-Mayonnaise",
     "name": "That's Smart! Mayonnaise",
     "domain": "hy-vee.com",
-    "current_price": "$3.37",
+    "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -14276,6 +14311,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 3.37,
         "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -14283,10 +14323,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2912532/Thats-Smart-Small-Curd-Cottage-Cheese-4-Milkfat",
     "name": "That's Smart! Small Curd Cottage Cheese 4% Milkfat",
     "domain": "hy-vee.com",
-    "current_price": "$2.99",
+    "current_price": "$3.29",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -15812,6 +15852,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 2.99,
         "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3.29,
+        "raw_price": "$3.29"
       }
     ]
   },
@@ -15819,10 +15864,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/31823/Certified-Ground-Round-90-Lean-10-Fat",
     "name": "Certified Ground Round 90% Lean 10% Fat",
     "domain": "hy-vee.com",
-    "current_price": "$7.99",
+    "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -17353,6 +17398,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 7.99,
         "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 8.99,
+        "raw_price": "$8.99"
       }
     ]
   },
@@ -17363,7 +17413,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -18859,6 +18909,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -18866,10 +18921,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3512698/Sara-Lee-Artesano-Brioche-Buns-8-count",
     "name": "Sara Lee Artesano Brioche Buns, 8 count, 16 oz, Bag",
     "domain": "hy-vee.com",
-    "current_price": "$4.49",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -20395,6 +20450,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 4.49,
         "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -20405,7 +20465,7 @@ const priceTrackerData = [
     "current_price": "$14.69",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-08-26",
@@ -21186,6 +21246,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 14.69,
         "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 14.69,
+        "raw_price": "$14.69"
       }
     ]
   },
@@ -21196,7 +21261,7 @@ const priceTrackerData = [
     "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -22617,6 +22682,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -22627,7 +22697,7 @@ const priceTrackerData = [
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -24038,6 +24108,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -24045,10 +24120,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/57770/HyVee-Light-Bartlett-Pear-Halves-In-Pear-Juice-From-Concentrate",
     "name": "Hy-Vee Light Bartlett Pear Halves In Pear Juice From Concentrate",
     "domain": "hy-vee.com",
-    "current_price": "$1.98",
+    "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -25579,6 +25654,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 1.98,
         "raw_price": "$1.98"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -25586,10 +25666,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
     "name": "Boneless Skinless Chicken Breast",
     "domain": "hy-vee.com",
-    "current_price": "$4.99",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -27120,6 +27200,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -27127,10 +27212,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/8657/Roma-Tomatoes",
     "name": "Roma Tomatoes",
     "domain": "hy-vee.com",
-    "current_price": "$1.27",
+    "current_price": "$0.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -28661,6 +28746,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 1.27,
         "raw_price": "$1.27"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 0.97,
+        "raw_price": "$0.97"
       }
     ]
   },
@@ -28671,7 +28761,7 @@ const priceTrackerData = [
     "current_price": "4.349",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -30627,6 +30717,11 @@ const priceTrackerData = [
         "date": "2026-09-20",
         "price": 4.349,
         "raw_price": "4.349"
+      },
+      {
+        "date": "2026-09-21",
+        "price": 4.349,
+        "raw_price": "4.349"
       }
     ]
   },
@@ -30636,8 +30731,8 @@ const priceTrackerData = [
     "domain": "menards.com",
     "current_price": "$3.54",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x558c519489fa <unknown>\n#1 0x558c5127e5b9 <unknown>\n#2 0x558c51265fda <unknown>\n#3 0x558c51265c56 <unknown>\n#4 0x558c51263890 <unknown>\n#5 0x558c512641ef <unknown>\n#6 0x558c512733a0 <unknown>\n#7 0x558c5128d2c7 <unknown>\n#8 0x558c51294d1b <unknown>\n#9 0x558c51264949 <unknown>\n#10 0x558c5128d022 <unknown>\n#11 0x558c5131e7a1 <unknown>\n#12 0x558c512c7b8b <unknown>\n#13 0x558c512c8971 <unknown>\n#14 0x558c5190b667 <unknown>\n#15 0x558c51909e95 <unknown>\n#16 0x558c518f4f55 <unknown>\n#17 0x558c5190aaea <unknown>\n#18 0x558c518dd6c9 <unknown>\n#19 0x558c519329a8 <unknown>\n#20 0x558c51932b45 <unknown>\n#21 0x558c51947353 <unknown>\n#22 0x7fe38849cb84 <unknown>\n#23 0x7fe388529d6c <unknown>\n",
-    "last_updated": "2026-09-20 13:01",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5647b6a4f9fa <unknown>\n#1 0x5647b63855b9 <unknown>\n#2 0x5647b636cfda <unknown>\n#3 0x5647b636cc56 <unknown>\n#4 0x5647b636a890 <unknown>\n#5 0x5647b636b1ef <unknown>\n#6 0x5647b637a3a0 <unknown>\n#7 0x5647b63942c7 <unknown>\n#8 0x5647b639bd1b <unknown>\n#9 0x5647b636b949 <unknown>\n#10 0x5647b6394022 <unknown>\n#11 0x5647b64257a1 <unknown>\n#12 0x5647b63ceb8b <unknown>\n#13 0x5647b63cf971 <unknown>\n#14 0x5647b6a12667 <unknown>\n#15 0x5647b6a10e95 <unknown>\n#16 0x5647b69fbf55 <unknown>\n#17 0x5647b6a11aea <unknown>\n#18 0x5647b69e46c9 <unknown>\n#19 0x5647b6a399a8 <unknown>\n#20 0x5647b6a39b45 <unknown>\n#21 0x5647b6a4e353 <unknown>\n#22 0x7feb0989cb84 <unknown>\n#23 0x7feb09929d6c <unknown>\n",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -32293,7 +32388,7 @@ const priceTrackerData = [
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-20 13:01",
+    "last_updated": "2026-09-21 15:00",
     "history": [
       {
         "date": "2025-02-12",
@@ -34632,6 +34727,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-20",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-21",
         "price": 540.0,
         "raw_price": "540"
       }
