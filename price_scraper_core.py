@@ -165,8 +165,8 @@ def scraper_api_fetch(url):
     print(f"  🤖 Activating ScraperAPI fallback proxy for: {url}")
     try:
         import requests
-        # Use premium proxies for difficult sites like Home Depot/Menards
-        payload = {'api_key': api_key, 'url': url, 'render': 'true', 'premium': 'true', 'country_code': 'us'}
+        # Use standard proxies with US geolocation for the free tier
+        payload = {'api_key': api_key, 'url': url, 'render': 'true', 'country_code': 'us'}
         r = requests.get('http://api.scraperapi.com', params=payload, timeout=60)
         print(f"  🤖 ScraperAPI responded with status code: {r.status_code}")
         if r.status_code == 200:
@@ -384,6 +384,26 @@ def update_excel_and_json(data):
         jf.write(f"const priceTrackerData = {json.dumps(json_data, indent=2)};")
     print(f"Dashboard Javascript JSON bundle updated at: {js_filename}")
 
+def check_for_anomaly(scraped_price_str, last_known_price):
+    """
+    Checks if the scraped price indicates a massive change (drop > 80% or increase > 400%).
+    Returns (is_anomaly, reason)
+    """
+    numeric_scraped_price = clean_price_to_float(scraped_price_str)
+    
+    if numeric_scraped_price is None or last_known_price is None or last_known_price <= 0:
+        return False, ""
+        
+    lower_bound = last_known_price * 0.2  # 80% drop
+    upper_bound = last_known_price * 5.0  # 400% increase
+    
+    if numeric_scraped_price < lower_bound:
+        return True, f"Price dropped massively from ${last_known_price:.2f} to ${numeric_scraped_price:.2f}. Likely scraping error."
+    elif numeric_scraped_price > upper_bound:
+        return True, f"Price increased massively from ${last_known_price:.2f} to ${numeric_scraped_price:.2f}. Likely scraping error."
+        
+    return False, ""
+
 def main_scraper_function():
     """Loops through all active configurations, scrapes elements, validates data, and outputs results."""
     print("Loading active websites configurations...")
@@ -393,6 +413,23 @@ def main_scraper_function():
         print("No active configurations found in websites.xlsx. Exiting.")
         return
         
+    # Load historical prices to detect anomalies
+    historical_prices = {}
+    try:
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        json_filename = os.path.join(base_path, "data.json")
+        if os.path.exists(json_filename):
+            with open(json_filename, "r", encoding="utf-8") as jf:
+                history_data = json.load(jf)
+                for item in history_data:
+                    hist_url = item.get("url")
+                    history = item.get("history", [])
+                    if history:
+                        last_price = history[-1].get("price")
+                        historical_prices[hist_url] = last_price
+    except Exception as e:
+        print(f"  [Warning] Could not load historical prices for anomaly detection: {e}")
+
     print(f"Scraper initialized. Running headless query for {len(websites)} URLs...")
     data = []
     driver = None
@@ -570,6 +607,17 @@ def main_scraper_function():
                     name_valid, name_reason = validate_product_name(scraped_name)
                     price_valid, price_reason = validate_price(scraped_price)
                     
+                    anomaly_detected = False
+                    anomaly_reason = ""
+                    
+                    if price_valid:
+                        last_known_price = historical_prices.get(url)
+                        anomaly_detected, anomaly_reason = check_for_anomaly(scraped_price, last_known_price)
+                        
+                        if anomaly_detected:
+                            print(f"  ⚠️ Anomaly Detected: {anomaly_reason}")
+                            scraped_price = "Error: Anomaly"
+                    
                     if xpath_name_failed or xpath_price_failed:
                         status = "xpath_error"
                         error_message = ""
@@ -577,13 +625,15 @@ def main_scraper_function():
                             error_message += "Product Name XPath could not be resolved or recovered."
                         if xpath_price_failed:
                             error_message += (" | " if error_message else "") + "Price XPath could not be resolved or recovered."
-                    elif not name_valid or not price_valid:
-                        status = "invalid_data"
+                    elif not name_valid or not price_valid or anomaly_detected:
+                        status = "invalid_data" if not anomaly_detected else "anomaly"
                         error_message = ""
                         if not name_valid:
                             error_message += f"Product Name validation failure: {name_reason}"
-                        if not price_valid:
+                        if not price_valid and not anomaly_detected:
                             error_message += (" | " if error_message else "") + f"Price validation failure: {price_reason}"
+                        if anomaly_detected:
+                            error_message += (" | " if error_message else "") + anomaly_reason
                     else:
                         status = "active"
                         error_message = ""
