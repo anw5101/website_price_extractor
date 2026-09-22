@@ -159,15 +159,20 @@ def scraper_api_fetch(url):
     """Fallback proxy fetch utilizing ScraperAPI for heavily blocked domains."""
     api_key = os.environ.get("SCRAPER_API_KEY")
     if not api_key:
+        print("  ⚠️ SCRAPER_API_KEY not found in environment!")
         return None
         
     print(f"  🤖 Activating ScraperAPI fallback proxy for: {url}")
     try:
         import requests
-        payload = {'api_key': api_key, 'url': url, 'render': 'true'}
-        r = requests.get('http://api.scraperapi.com', params=payload, timeout=45)
+        # Use premium proxies for difficult sites like Home Depot/Menards
+        payload = {'api_key': api_key, 'url': url, 'render': 'true', 'premium': 'true', 'country_code': 'us'}
+        r = requests.get('http://api.scraperapi.com', params=payload, timeout=60)
+        print(f"  🤖 ScraperAPI responded with status code: {r.status_code}")
         if r.status_code == 200:
             return r.text
+        else:
+            print(f"  🤖 ScraperAPI Error Body: {r.text[:200]}")
     except Exception as e:
         print(f"  [ScraperAPI Error] {e}")
     return None
