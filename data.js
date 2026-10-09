@@ -1,12 +1,12 @@
 const priceTrackerData = [
   {
     "url": "https://www.chevrolet.com/trucks/silverado/1500",
-    "name": "SILVERADO",
+    "name": "NEXT-GENERATION 2027",
     "domain": "chevrolet.com",
-    "current_price": "$36,900*",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "current_price": "$37,200*",
+    "status": "xpath_error",
+    "error_message": "Price XPath could not be resolved or recovered.",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -2397,6 +2397,71 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 36900.0,
         "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 36900.0,
+        "raw_price": "$36,900*"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 37200.0,
+        "raw_price": "$37,200*"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 37200.0,
+        "raw_price": "$37,200*"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 37200.0,
+        "raw_price": "$37,200*"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 37200.0,
+        "raw_price": "$37,200*"
       }
     ]
   },
@@ -2407,7 +2472,7 @@ const priceTrackerData = [
     "current_price": "798",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -3073,7 +3138,7 @@ const priceTrackerData = [
     "current_price": "748",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -3524,7 +3589,7 @@ const priceTrackerData = [
     "current_price": "$4.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -5063,6 +5128,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 4.78,
+        "raw_price": "$4.78"
+      },
+      {
+        "date": "2026-10-08",
         "price": 4.78,
         "raw_price": "$4.78"
       }
@@ -5075,7 +5215,7 @@ const priceTrackerData = [
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -6619,6 +6759,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-08",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -6628,10 +6843,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/22365/HyVee-Select-100-Pure-Maple-Syrup",
     "name": "Hy-Vee Select 100% Pure Maple Syrup",
     "domain": "hy-vee.com",
-    "current_price": "$6.88",
+    "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -8177,6 +8392,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 6.88,
         "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 6.88,
+        "raw_price": "$6.88"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 6.99,
+        "raw_price": "$6.99"
       }
     ]
   },
@@ -8187,7 +8477,7 @@ const priceTrackerData = [
     "current_price": "$5.79",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -9726,6 +10016,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 5.79,
+        "raw_price": "$5.79"
+      },
+      {
+        "date": "2026-10-08",
         "price": 5.79,
         "raw_price": "$5.79"
       }
@@ -9738,7 +10103,7 @@ const priceTrackerData = [
     "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -11282,6 +11647,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1.96,
+        "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1.96,
+        "raw_price": "$1.96"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-10-08",
         "price": 1.97,
         "raw_price": "$1.97"
       }
@@ -11294,7 +11734,7 @@ const priceTrackerData = [
     "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -12838,6 +13278,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 2.75,
+        "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 2.75,
+        "raw_price": "$2.75"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-10-08",
         "price": 2.78,
         "raw_price": "$2.78"
       }
@@ -12850,7 +13365,7 @@ const priceTrackerData = [
     "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -14396,6 +14911,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 2.97,
         "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 3.37,
+        "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 3.37,
+        "raw_price": "$3.37"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -14403,10 +14993,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2912532/Thats-Smart-Small-Curd-Cottage-Cheese-4-Milkfat",
     "name": "That's Smart! Small Curd Cottage Cheese 4% Milkfat",
     "domain": "hy-vee.com",
-    "current_price": "$3.29",
+    "current_price": "$2.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -15947,6 +16537,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 3.29,
         "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 3.29,
+        "raw_price": "$3.29"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 2.99,
+        "raw_price": "$2.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 2.99,
+        "raw_price": "$2.99"
       }
     ]
   },
@@ -15957,7 +16622,7 @@ const priceTrackerData = [
     "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -17501,6 +18166,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 7.99,
+        "raw_price": "$7.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-10-08",
         "price": 8.99,
         "raw_price": "$8.99"
       }
@@ -17513,7 +18253,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -19024,6 +19764,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -19034,7 +19849,7 @@ const priceTrackerData = [
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -20575,6 +21390,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4.49,
+        "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4.49,
+        "raw_price": "$4.49"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -20582,10 +21472,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3594226/Folgers-Coffee-Classic-Roast-Ground-Medium",
     "name": "Folgers Coffee, Classic Roast Ground, Medium",
     "domain": "hy-vee.com",
-    "current_price": "$14.69",
+    "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-08-26",
@@ -21381,6 +22271,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 14.69,
         "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 14.69,
+        "raw_price": "$14.69"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 14.96,
+        "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 14.96,
+        "raw_price": "$14.96"
       }
     ]
   },
@@ -21391,7 +22356,7 @@ const priceTrackerData = [
     "current_price": "$5.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -22827,6 +23792,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 5.99,
         "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 5.99,
+        "raw_price": "$5.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 5.99,
+        "raw_price": "$5.99"
       }
     ]
   },
@@ -22837,7 +23877,7 @@ const priceTrackerData = [
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -24263,6 +25303,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 0.5,
+        "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -24273,7 +25388,7 @@ const priceTrackerData = [
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -25819,6 +26934,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 1.99,
+        "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -25826,10 +27016,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
     "name": "Boneless Skinless Chicken Breast",
     "domain": "hy-vee.com",
-    "current_price": "$3.99",
+    "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -27375,6 +28565,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 4.99,
+        "raw_price": "$4.99"
       }
     ]
   },
@@ -27385,7 +28650,7 @@ const priceTrackerData = [
     "current_price": "$0.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -28931,6 +30196,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 0.97,
         "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 1.28,
+        "raw_price": "$1.28"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 1.28,
+        "raw_price": "$1.28"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 0.97,
+        "raw_price": "$0.97"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 0.97,
+        "raw_price": "$0.97"
       }
     ]
   },
@@ -28938,10 +30278,10 @@ const priceTrackerData = [
     "url": "https://www.kwiktrip.com/locator/store?id=1056",
     "name": "KWIK STAR #1056",
     "domain": "kwiktrip.com",
-    "current_price": "4.349",
+    "current_price": "4.299",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -30912,6 +32252,81 @@ const priceTrackerData = [
         "date": "2026-09-22",
         "price": 4.349,
         "raw_price": "4.349"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 4.349,
+        "raw_price": "4.349"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 4.299,
+        "raw_price": "4.299"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 4.249,
+        "raw_price": "4.249"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 4.099,
+        "raw_price": "4.099"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 4.049,
+        "raw_price": "4.049"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 3.999,
+        "raw_price": "3.999"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 3.949,
+        "raw_price": "3.949"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 4.349,
+        "raw_price": "4.349"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 4.349,
+        "raw_price": "4.349"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 4.299,
+        "raw_price": "4.299"
       }
     ]
   },
@@ -30921,8 +32336,8 @@ const priceTrackerData = [
     "domain": "menards.com",
     "current_price": "$3.54",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x55df557c59fa <unknown>\n#1 0x55df550fb5b9 <unknown>\n#2 0x55df550e2fda <unknown>\n#3 0x55df550e2c56 <unknown>\n#4 0x55df550e0890 <unknown>\n#5 0x55df550e11ef <unknown>\n#6 0x55df550f03a0 <unknown>\n#7 0x55df5510a2c7 <unknown>\n#8 0x55df55111d1b <unknown>\n#9 0x55df550e1949 <unknown>\n#10 0x55df5510a022 <unknown>\n#11 0x55df5519b7a1 <unknown>\n#12 0x55df55144b8b <unknown>\n#13 0x55df55145971 <unknown>\n#14 0x55df55788667 <unknown>\n#15 0x55df55786e95 <unknown>\n#16 0x55df55771f55 <unknown>\n#17 0x55df55787aea <unknown>\n#18 0x55df5575a6c9 <unknown>\n#19 0x55df557af9a8 <unknown>\n#20 0x55df557afb45 <unknown>\n#21 0x55df557c4353 <unknown>\n#22 0x7f3a0149cb84 <unknown>\n#23 0x7f3a01529d6c <unknown>\n",
-    "last_updated": "2026-09-22 02:51",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560555646aaa <unknown>\n#1 0x560554f74aa9 <unknown>\n#2 0x560554f5c49b <unknown>\n#3 0x560554f5c116 <unknown>\n#4 0x560554f59d40 <unknown>\n#5 0x560554f5a69f <unknown>\n#6 0x560554f69890 <unknown>\n#7 0x560554f837f6 <unknown>\n#8 0x560554f8b2eb <unknown>\n#9 0x560554f5adf9 <unknown>\n#10 0x560554f8355d <unknown>\n#11 0x5605550150a2 <unknown>\n#12 0x560554fbe148 <unknown>\n#13 0x560554fbef11 <unknown>\n#14 0x5605556095ac <unknown>\n#15 0x560555607dc5 <unknown>\n#16 0x5605555f2e95 <unknown>\n#17 0x560555608a1a <unknown>\n#18 0x5605555db5c9 <unknown>\n#19 0x5605556310f8 <unknown>\n#20 0x560555631295 <unknown>\n#21 0x5605556453f3 <unknown>\n#22 0x7f974529cb84 <unknown>\n#23 0x7f9745329ecc <unknown>\n",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -32578,7 +33993,7 @@ const priceTrackerData = [
     "current_price": "540",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-09-22 02:51",
+    "last_updated": "2026-10-08 15:23",
     "history": [
       {
         "date": "2025-02-12",
@@ -34932,6 +36347,81 @@ const priceTrackerData = [
       },
       {
         "date": "2026-09-22",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-24",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-28",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-29",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-02",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-03",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-04",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-05",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 540.0,
+        "raw_price": "540"
+      },
+      {
+        "date": "2026-10-08",
         "price": 540.0,
         "raw_price": "540"
       }
