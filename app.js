@@ -117,7 +117,7 @@ function initApp() {
         allProducts.forEach(item => {
             if (item.status === "active") {
                 healthy++;
-            } else if (item.status === "xpath_error" || item.status === "blocked" || item.status === "failed" || item.status === "invalid_data") {
+            } else if (item.status === "xpath_error" || item.status === "blocked" || item.status === "failed" || item.status === "invalid_data" || item.status === "anomaly") {
                 anomalies++;
             }
 
@@ -185,7 +185,7 @@ function initApp() {
             } else if (activeStatus === "xpath_error") {
                 matchesStatus = item.status === "xpath_error";
             } else if (activeStatus === "blocked") {
-                matchesStatus = item.status === "blocked" || item.status === "failed" || item.status === "invalid_data";
+                matchesStatus = item.status === "blocked" || item.status === "failed" || item.status === "invalid_data" || item.status === "anomaly";
             }
 
             return matchesSearch && matchesStore && matchesStatus;
@@ -236,7 +236,7 @@ function initApp() {
             
             // Build classes based on active state
             let statusClass = "status-" + prod.status;
-            if (prod.status === "failed" || prod.status === "invalid_data") statusClass = "status-blocked";
+            if (prod.status === "failed" || prod.status === "invalid_data" || prod.status === "anomaly") statusClass = "status-blocked";
             
             card.className = `product-card ${statusClass}`;
             if (selectedProduct && selectedProduct.url === prod.url) {

@@ -424,6 +424,7 @@ h1, h2, h3, h4, .stat-value {
     gap: 1rem;
     max-height: 620px;
     overflow: hidden;
+    min-width: 0;
 }
 
 .panel-header {
@@ -603,6 +604,7 @@ h1, h2, h3, h4, .stat-value {
     height: 570px;
     position: sticky;
     top: 0;
+    min-width: 0;
 }
 
 .chart-header {
@@ -676,6 +678,7 @@ h1, h2, h3, h4, .stat-value {
     width: 100%;
     height: 100%;
     display: none; /* Block view shown only when item selected */
+    position: relative;
 }
 
 /* Placeholder and Loading States */
