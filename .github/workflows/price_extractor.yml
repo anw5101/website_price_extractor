@@ -62,5 +62,16 @@ jobs:
           else
             echo "New price data detected. Committing changes..."
             git commit -m "Scraper: Auto-update historical price data [skip ci]"
-            git push origin main || git push origin master
+            
+            # Retry push up to 3 times to handle transient GitHub server errors
+            for i in 1 2 3; do
+              git push origin main && break || {
+                if [ $i -eq 3 ]; then
+                  echo "Failed to push after 3 attempts."
+                  exit 1
+                fi
+                echo "Push failed. Retrying in 10 seconds... (Attempt $i/3)"
+                sleep 10
+              }
+            done
           fi
