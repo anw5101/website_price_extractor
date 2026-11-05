@@ -6,7 +6,7 @@
     "current_price": "$37,200*",
     "status": "xpath_error",
     "error_message": "Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -2472,7 +2472,7 @@
     "current_price": "798",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -3138,7 +3138,7 @@
     "current_price": "748",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -3589,7 +3589,7 @@
     "current_price": "$5.32",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -5338,6 +5338,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-11-05",
         "price": 5.32,
         "raw_price": "$5.32"
       }
@@ -5350,7 +5355,7 @@
     "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -7104,6 +7109,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-11-05",
         "price": 4.99,
         "raw_price": "$4.99"
       }
@@ -7116,7 +7126,7 @@
     "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -8870,6 +8880,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-11-05",
         "price": 6.99,
         "raw_price": "$6.99"
       }
@@ -8882,7 +8897,7 @@
     "current_price": "$5.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -10631,6 +10646,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 5.97,
+        "raw_price": "$5.97"
+      },
+      {
+        "date": "2026-11-05",
         "price": 5.97,
         "raw_price": "$5.97"
       }
@@ -10643,7 +10663,7 @@
     "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -12397,6 +12417,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-11-05",
         "price": 1.97,
         "raw_price": "$1.97"
       }
@@ -12409,7 +12434,7 @@
     "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -14163,6 +14188,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-11-05",
         "price": 2.78,
         "raw_price": "$2.78"
       }
@@ -14175,7 +14205,7 @@
     "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -15931,6 +15961,11 @@
         "date": "2026-11-04",
         "price": 2.97,
         "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 2.97,
+        "raw_price": "$2.97"
       }
     ]
   },
@@ -15941,7 +15976,7 @@
     "current_price": "$3.18",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -17692,17 +17727,22 @@
         "date": "2026-11-04",
         "price": 3.18,
         "raw_price": "$3.18"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 3.18,
+        "raw_price": "$3.18"
       }
     ]
   },
   {
     "url": "https://www.hy-vee.com/aisles-online/p/31823/Certified-Ground-Round-90-Lean-10-Fat",
-    "name": "Certified Ground Round 90% Lean 10% Fat",
+    "name": "Fresh Bananas",
     "domain": "hy-vee.com",
-    "current_price": "$8.99",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "current_price": "Error: Anomaly",
+    "status": "anomaly",
+    "error_message": "Price dropped massively from $8.99 to $0.50. Likely scraping error.",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -19468,7 +19508,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -21189,6 +21229,11 @@
         "date": "2026-11-04",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -21199,7 +21244,7 @@
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -22950,6 +22995,11 @@
         "date": "2026-11-04",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -22960,7 +23010,7 @@
     "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-08-26",
@@ -23966,17 +24016,22 @@
         "date": "2026-11-04",
         "price": 14.96,
         "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 14.96,
+        "raw_price": "$14.96"
       }
     ]
   },
   {
     "url": "https://www.hy-vee.com/aisles-online/p/371584/Wonderful-Halos-Mandarin-Oranges",
-    "name": "Wonderful Halos Mandarin Oranges",
+    "name": "Fresh Bananas",
     "domain": "hy-vee.com",
-    "current_price": "$6.99",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "current_price": "Error: Anomaly",
+    "status": "anomaly",
+    "error_message": "Price dropped massively from $6.99 to $0.50. Likely scraping error.",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -25632,7 +25687,7 @@
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -27268,6 +27323,11 @@
         "date": "2026-11-04",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -27278,7 +27338,7 @@
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -29034,17 +29094,22 @@
         "date": "2026-11-04",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
   {
     "url": "https://www.hy-vee.com/aisles-online/p/65791/Boneless-Skinless-Chicken-Breast",
-    "name": "Boneless Skinless Chicken Breast",
+    "name": "Fresh Bananas",
     "domain": "hy-vee.com",
-    "current_price": "$3.99",
-    "status": "active",
-    "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "current_price": "Error: Anomaly",
+    "status": "anomaly",
+    "error_message": "Price dropped massively from $3.99 to $0.50. Likely scraping error.",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -30807,10 +30872,10 @@
     "url": "https://www.hy-vee.com/aisles-online/p/8657/Roma-Tomatoes",
     "name": "Roma Tomatoes",
     "domain": "hy-vee.com",
-    "current_price": "$1.28",
+    "current_price": "$1.27",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -32566,6 +32631,11 @@
         "date": "2026-11-04",
         "price": 1.28,
         "raw_price": "$1.28"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 1.27,
+        "raw_price": "$1.27"
       }
     ]
   },
@@ -32573,10 +32643,10 @@
     "url": "https://www.kwiktrip.com/locator/store?id=1056",
     "name": "KWIK STAR #1056",
     "domain": "kwiktrip.com",
-    "current_price": "3.759",
+    "current_price": "3.699",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -34757,6 +34827,11 @@
         "date": "2026-11-04",
         "price": 3.759,
         "raw_price": "3.759"
+      },
+      {
+        "date": "2026-11-05",
+        "price": 3.699,
+        "raw_price": "3.699"
       }
     ]
   },
@@ -34766,8 +34841,8 @@
     "domain": "menards.com",
     "current_price": "$3.54",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=156.0.8078.79)\nStacktrace:\n#0 0x55b02d22e0aa <unknown>\n#1 0x55b02cb61875 <unknown>\n#2 0x55b02cb51802 <unknown>\n#3 0x55b02cb51576 <unknown>\n#4 0x55b02cb4fcfb <unknown>\n#5 0x55b02cb5010f <unknown>\n#6 0x55b02cb5b6f6 <unknown>\n#7 0x55b02cb6c740 <unknown>\n#8 0x55b02cb723eb <unknown>\n#9 0x55b02cb509e7 <unknown>\n#10 0x55b02cb50708 <unknown>\n#11 0x55b02cb6c603 <unknown>\n#12 0x55b02cbdf99d <unknown>\n#13 0x55b02cb9aa07 <unknown>\n#14 0x55b02cb99d1e <unknown>\n#15 0x55b02cb9a7f1 <unknown>\n#16 0x55b02d1f0c5c <unknown>\n#17 0x55b02d1ef475 <unknown>\n#18 0x55b02d1da7f8 <unknown>\n#19 0x55b02d1f00ca <unknown>\n#20 0x55b02d1c33f9 <unknown>\n#21 0x55b02d218848 <unknown>\n#22 0x55b02d2189e5 <unknown>\n#23 0x55b02d22ca43 <unknown>\n#24 0x7f4dbf09cb84 <unknown>\n#25 0x7f4dbf129ecc <unknown>\n",
-    "last_updated": "2026-11-04 16:08",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=156.0.8078.79)\nStacktrace:\n#0 0x55ba917bb0aa <unknown>\n#1 0x55ba910ee875 <unknown>\n#2 0x55ba910de802 <unknown>\n#3 0x55ba910de576 <unknown>\n#4 0x55ba910dccfb <unknown>\n#5 0x55ba910dd10f <unknown>\n#6 0x55ba910e86f6 <unknown>\n#7 0x55ba910f9740 <unknown>\n#8 0x55ba910ff3eb <unknown>\n#9 0x55ba910dd9e7 <unknown>\n#10 0x55ba910dd708 <unknown>\n#11 0x55ba910f9603 <unknown>\n#12 0x55ba9116c99d <unknown>\n#13 0x55ba91127a07 <unknown>\n#14 0x55ba91126d1e <unknown>\n#15 0x55ba911277f1 <unknown>\n#16 0x55ba9177dc5c <unknown>\n#17 0x55ba9177c475 <unknown>\n#18 0x55ba917677f8 <unknown>\n#19 0x55ba9177d0ca <unknown>\n#20 0x55ba917503f9 <unknown>\n#21 0x55ba917a5848 <unknown>\n#22 0x55ba917a59e5 <unknown>\n#23 0x55ba917b9a43 <unknown>\n#24 0x7f8e3b09cb84 <unknown>\n#25 0x7f8e3b129ecc <unknown>\n",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
@@ -36423,7 +36498,7 @@
     "current_price": "Error: Anomaly",
     "status": "anomaly",
     "error_message": "Price increased massively from $540.00 to $42025.00. Likely scraping error.",
-    "last_updated": "2026-11-04 16:08",
+    "last_updated": "2026-11-05 16:16",
     "history": [
       {
         "date": "2025-02-12",
