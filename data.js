@@ -6,7 +6,7 @@ const priceTrackerData = [
     "current_price": "$37,200*",
     "status": "xpath_error",
     "error_message": "Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -2470,9 +2470,9 @@ const priceTrackerData = [
     "name": "5.5 cu.ft. Extra-Large Capacity Smart Top Load Washer with Super Speed in White",
     "domain": "homedepot.com",
     "current_price": "798",
-    "status": "xpath_error",
-    "error_message": "Product Name XPath could not be resolved or recovered. | Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-11-17 17:33",
+    "status": "blocked",
+    "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -3138,7 +3138,7 @@ const priceTrackerData = [
     "current_price": "748",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -3589,7 +3589,7 @@ const priceTrackerData = [
     "current_price": "$5.32",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -5400,6 +5400,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 5.32,
         "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 5.32,
+        "raw_price": "$5.32"
       }
     ]
   },
@@ -5407,10 +5412,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/1882763/Dole-Fresh-Romaine-Hearts",
     "name": "Dole Fresh Romaine Hearts",
     "domain": "hy-vee.com",
-    "current_price": "$4.99",
+    "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -7226,6 +7231,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 3.99,
+        "raw_price": "$3.99"
       }
     ]
   },
@@ -7236,7 +7246,7 @@ const priceTrackerData = [
     "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -9050,6 +9060,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-17",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-11-18",
         "price": 6.99,
         "raw_price": "$6.99"
       }
@@ -9062,7 +9077,7 @@ const priceTrackerData = [
     "current_price": "$5.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -10871,6 +10886,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-17",
+        "price": 5.97,
+        "raw_price": "$5.97"
+      },
+      {
+        "date": "2026-11-18",
         "price": 5.97,
         "raw_price": "$5.97"
       }
@@ -10880,10 +10900,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2849570/Thats-Smart-Large-Shell-Eggs",
     "name": "That's Smart! Large Shell Eggs",
     "domain": "hy-vee.com",
-    "current_price": "$1.97",
+    "current_price": "$1.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -12699,6 +12719,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 1.97,
         "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 1.96,
+        "raw_price": "$1.96"
       }
     ]
   },
@@ -12706,10 +12731,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2869496/Thats-Smart-Fat-Free-Skim-Milk",
     "name": "That's Smart! Fat Free Skim Milk",
     "domain": "hy-vee.com",
-    "current_price": "$2.78",
+    "current_price": "$2.75",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -14525,6 +14550,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 2.78,
         "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 2.75,
+        "raw_price": "$2.75"
       }
     ]
   },
@@ -14532,10 +14562,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/2886456/Thats-Smart-Mayonnaise",
     "name": "That's Smart! Mayonnaise",
     "domain": "hy-vee.com",
-    "current_price": "$2.97",
+    "current_price": "$3.37",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -16351,6 +16381,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 2.97,
         "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 3.37,
+        "raw_price": "$3.37"
       }
     ]
   },
@@ -16361,7 +16396,7 @@ const priceTrackerData = [
     "current_price": "$3.18",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -18172,6 +18207,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 3.18,
         "raw_price": "$3.18"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 3.18,
+        "raw_price": "$3.18"
       }
     ]
   },
@@ -18179,10 +18219,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/31823/Certified-Ground-Round-90-Lean-10-Fat",
     "name": "Certified Ground Round 90% Lean 10% Fat",
     "domain": "hy-vee.com",
-    "current_price": "$8.99",
+    "current_price": "$7.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -19993,6 +20033,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 8.99,
         "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 7.99,
+        "raw_price": "$7.99"
       }
     ]
   },
@@ -20003,7 +20048,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -21784,6 +21829,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -21791,10 +21841,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3512698/Sara-Lee-Artesano-Brioche-Buns-8-count",
     "name": "Sara Lee Artesano Brioche Buns, 8 count, 16 oz, Bag",
     "domain": "hy-vee.com",
-    "current_price": "$3.99",
+    "current_price": "$4.49",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -23605,6 +23655,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 3.99,
         "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 4.49,
+        "raw_price": "$4.49"
       }
     ]
   },
@@ -23612,10 +23667,10 @@ const priceTrackerData = [
     "url": "https://www.hy-vee.com/aisles-online/p/3594226/Folgers-Coffee-Classic-Roast-Ground-Medium",
     "name": "Folgers Coffee, Classic Roast Ground, Medium",
     "domain": "hy-vee.com",
-    "current_price": "$14.96",
+    "current_price": "$14.86",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-08-26",
@@ -24681,6 +24736,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 14.96,
         "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 14.86,
+        "raw_price": "$14.86"
       }
     ]
   },
@@ -24691,7 +24751,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -26390,6 +26450,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-17",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-11-18",
         "price": 4.97,
         "raw_price": "$4.97"
       }
@@ -26402,7 +26467,7 @@ const priceTrackerData = [
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -28098,6 +28163,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -28108,7 +28178,7 @@ const priceTrackerData = [
     "current_price": "$1.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -29924,6 +29994,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 1.78,
         "raw_price": "$1.78"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 1.78,
+        "raw_price": "$1.78"
       }
     ]
   },
@@ -29934,7 +30009,7 @@ const priceTrackerData = [
     "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -31745,6 +31820,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 4.99,
+        "raw_price": "$4.99"
       }
     ]
   },
@@ -31755,7 +31835,7 @@ const priceTrackerData = [
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -33571,6 +33651,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -33581,7 +33666,7 @@ const priceTrackerData = [
     "current_price": "3.299",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -35822,6 +35907,11 @@ const priceTrackerData = [
         "date": "2026-11-17",
         "price": 3.299,
         "raw_price": "3.299"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 3.299,
+        "raw_price": "3.299"
       }
     ]
   },
@@ -35831,8 +35921,8 @@ const priceTrackerData = [
     "domain": "menards.com",
     "current_price": "$4.25",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x616ea0635caa <unknown>\n#1 0x616e9ff69cc5 <unknown>\n#2 0x616e9ff59b32 <unknown>\n#3 0x616e9ff598a6 <unknown>\n#4 0x616e9ff5802b <unknown>\n#5 0x616e9ff5843f <unknown>\n#6 0x616e9ff639d6 <unknown>\n#7 0x616e9ff74b90 <unknown>\n#8 0x616e9ff7a99b <unknown>\n#9 0x616e9ff58d17 <unknown>\n#10 0x616e9ff58a38 <unknown>\n#11 0x616e9ff74a53 <unknown>\n#12 0x616e9ffeb60d <unknown>\n#13 0x616e9ffa6557 <unknown>\n#14 0x616e9ffa586e <unknown>\n#15 0x616e9ffa6341 <unknown>\n#16 0x616ea05f879c <unknown>\n#17 0x616ea05f6fcd <unknown>\n#18 0x616ea05e1df5 <unknown>\n#19 0x616ea05f7c0a <unknown>\n#20 0x616ea05cab99 <unknown>\n#21 0x616ea0620318 <unknown>\n#22 0x616ea06204b5 <unknown>\n#23 0x616ea0634633 <unknown>\n#24 0x73f59b2abe6b <unknown>\n#25 0x73f59b33f55c <unknown>\n",
-    "last_updated": "2026-11-17 17:33",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=157.0.8103.50)\nStacktrace:\n#0 0x62bee523bcaa <unknown>\n#1 0x62bee4b6fcc5 <unknown>\n#2 0x62bee4b5fb32 <unknown>\n#3 0x62bee4b5f8a6 <unknown>\n#4 0x62bee4b5e02b <unknown>\n#5 0x62bee4b5e43f <unknown>\n#6 0x62bee4b699d6 <unknown>\n#7 0x62bee4b7ab90 <unknown>\n#8 0x62bee4b8099b <unknown>\n#9 0x62bee4b5ed17 <unknown>\n#10 0x62bee4b5ea38 <unknown>\n#11 0x62bee4b7aa53 <unknown>\n#12 0x62bee4bf160d <unknown>\n#13 0x62bee4bac557 <unknown>\n#14 0x62bee4bab86e <unknown>\n#15 0x62bee4bac341 <unknown>\n#16 0x62bee51fe79c <unknown>\n#17 0x62bee51fcfcd <unknown>\n#18 0x62bee51e7df5 <unknown>\n#19 0x62bee51fdc0a <unknown>\n#20 0x62bee51d0b99 <unknown>\n#21 0x62bee5226318 <unknown>\n#22 0x62bee52264b5 <unknown>\n#23 0x62bee523a633 <unknown>\n#24 0x7450596abe6b <unknown>\n#25 0x74505973f55c <unknown>\n",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
@@ -37493,7 +37583,7 @@ const priceTrackerData = [
     "current_price": "Error: Anomaly",
     "status": "anomaly",
     "error_message": "Price increased massively from $540.00 to $42025.00. Likely scraping error.",
-    "last_updated": "2026-11-17 17:33",
+    "last_updated": "2026-11-18 17:06",
     "history": [
       {
         "date": "2025-02-12",
