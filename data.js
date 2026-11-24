@@ -6,7 +6,7 @@ const priceTrackerData = [
     "current_price": "$37,200*",
     "status": "xpath_error",
     "error_message": "Price XPath could not be resolved or recovered.",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -2472,7 +2472,7 @@ const priceTrackerData = [
     "current_price": "798",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -3138,7 +3138,7 @@ const priceTrackerData = [
     "current_price": "748",
     "status": "blocked",
     "error_message": "Headless browser was blocked by anti-bot page (e.g., Cloudflare check).",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -3589,7 +3589,7 @@ const priceTrackerData = [
     "current_price": "$5.32",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -5428,6 +5428,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 5.32,
+        "raw_price": "$5.32"
+      },
+      {
+        "date": "2026-11-24",
         "price": 5.32,
         "raw_price": "$5.32"
       }
@@ -5440,7 +5445,7 @@ const priceTrackerData = [
     "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -7284,6 +7289,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 4.99,
+        "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-11-24",
         "price": 4.99,
         "raw_price": "$4.99"
       }
@@ -7296,7 +7306,7 @@ const priceTrackerData = [
     "current_price": "$6.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -9140,6 +9150,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 6.99,
+        "raw_price": "$6.99"
+      },
+      {
+        "date": "2026-11-24",
         "price": 6.99,
         "raw_price": "$6.99"
       }
@@ -9152,7 +9167,7 @@ const priceTrackerData = [
     "current_price": "$5.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -10991,6 +11006,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 5.97,
+        "raw_price": "$5.97"
+      },
+      {
+        "date": "2026-11-24",
         "price": 5.97,
         "raw_price": "$5.97"
       }
@@ -11003,7 +11023,7 @@ const priceTrackerData = [
     "current_price": "$1.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -12847,6 +12867,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 1.97,
+        "raw_price": "$1.97"
+      },
+      {
+        "date": "2026-11-24",
         "price": 1.97,
         "raw_price": "$1.97"
       }
@@ -12859,7 +12884,7 @@ const priceTrackerData = [
     "current_price": "$2.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -14703,6 +14728,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 2.78,
+        "raw_price": "$2.78"
+      },
+      {
+        "date": "2026-11-24",
         "price": 2.78,
         "raw_price": "$2.78"
       }
@@ -14715,7 +14745,7 @@ const priceTrackerData = [
     "current_price": "$2.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -16559,6 +16589,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 2.97,
+        "raw_price": "$2.97"
+      },
+      {
+        "date": "2026-11-24",
         "price": 2.97,
         "raw_price": "$2.97"
       }
@@ -16571,7 +16606,7 @@ const priceTrackerData = [
     "current_price": "$3.18",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -18410,6 +18445,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 3.18,
+        "raw_price": "$3.18"
+      },
+      {
+        "date": "2026-11-24",
         "price": 3.18,
         "raw_price": "$3.18"
       }
@@ -18422,7 +18462,7 @@ const priceTrackerData = [
     "current_price": "$8.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -20261,6 +20301,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 8.99,
+        "raw_price": "$8.99"
+      },
+      {
+        "date": "2026-11-24",
         "price": 8.99,
         "raw_price": "$8.99"
       }
@@ -20273,7 +20318,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -22082,6 +22127,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 4.97,
+        "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-11-24",
         "price": 4.97,
         "raw_price": "$4.97"
       }
@@ -22094,7 +22144,7 @@ const priceTrackerData = [
     "current_price": "$3.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -23933,6 +23983,11 @@ const priceTrackerData = [
       },
       {
         "date": "2026-11-23",
+        "price": 3.99,
+        "raw_price": "$3.99"
+      },
+      {
+        "date": "2026-11-24",
         "price": 3.99,
         "raw_price": "$3.99"
       }
@@ -23945,7 +24000,7 @@ const priceTrackerData = [
     "current_price": "$14.96",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-08-26",
@@ -25041,6 +25096,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 14.96,
         "raw_price": "$14.96"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 14.96,
+        "raw_price": "$14.96"
       }
     ]
   },
@@ -25051,7 +25111,7 @@ const priceTrackerData = [
     "current_price": "$4.97",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -26782,6 +26842,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 4.97,
         "raw_price": "$4.97"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 4.97,
+        "raw_price": "$4.97"
       }
     ]
   },
@@ -26792,7 +26857,7 @@ const priceTrackerData = [
     "current_price": "$0.50",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -28518,6 +28583,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 0.5,
         "raw_price": "$0.50"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 0.5,
+        "raw_price": "$0.50"
       }
     ]
   },
@@ -28528,7 +28598,7 @@ const priceTrackerData = [
     "current_price": "$1.78",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -30374,6 +30444,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 1.78,
         "raw_price": "$1.78"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 1.78,
+        "raw_price": "$1.78"
       }
     ]
   },
@@ -30384,7 +30459,7 @@ const priceTrackerData = [
     "current_price": "$4.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -32225,6 +32300,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 4.99,
         "raw_price": "$4.99"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 4.99,
+        "raw_price": "$4.99"
       }
     ]
   },
@@ -32235,7 +32315,7 @@ const priceTrackerData = [
     "current_price": "$1.99",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -34081,6 +34161,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 1.99,
         "raw_price": "$1.99"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 1.99,
+        "raw_price": "$1.99"
       }
     ]
   },
@@ -34088,10 +34173,10 @@ const priceTrackerData = [
     "url": "https://www.kwiktrip.com/locator/store?id=1056",
     "name": "KWIK STAR #1056",
     "domain": "kwiktrip.com",
-    "current_price": "3.119",
+    "current_price": "3.069",
     "status": "active",
     "error_message": "",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -36362,6 +36447,11 @@ const priceTrackerData = [
         "date": "2026-11-23",
         "price": 3.119,
         "raw_price": "3.119"
+      },
+      {
+        "date": "2026-11-24",
+        "price": 3.069,
+        "raw_price": "3.069"
       }
     ]
   },
@@ -36371,8 +36461,8 @@ const priceTrackerData = [
     "domain": "menards.com",
     "current_price": "$4.25",
     "status": "failed",
-    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x57bd717c3caa <unknown>\n#1 0x57bd710f7cc5 <unknown>\n#2 0x57bd710e7b32 <unknown>\n#3 0x57bd710e78a6 <unknown>\n#4 0x57bd710e602b <unknown>\n#5 0x57bd710e643f <unknown>\n#6 0x57bd710f19d6 <unknown>\n#7 0x57bd71102b90 <unknown>\n#8 0x57bd7110899b <unknown>\n#9 0x57bd710e6d17 <unknown>\n#10 0x57bd710e6a38 <unknown>\n#11 0x57bd71102a53 <unknown>\n#12 0x57bd7117960d <unknown>\n#13 0x57bd71134557 <unknown>\n#14 0x57bd7113386e <unknown>\n#15 0x57bd71134341 <unknown>\n#16 0x57bd7178679c <unknown>\n#17 0x57bd71784fcd <unknown>\n#18 0x57bd7176fdf5 <unknown>\n#19 0x57bd71785c0a <unknown>\n#20 0x57bd71758b99 <unknown>\n#21 0x57bd717ae318 <unknown>\n#22 0x57bd717ae4b5 <unknown>\n#23 0x57bd717c2633 <unknown>\n#24 0x735c4d8abdeb <unknown>\n#25 0x735c4d93f4dc <unknown>\n",
-    "last_updated": "2026-11-23 19:59",
+    "error_message": "Browser execution failed: Message: timeout: Timed out receiving message from renderer: 25.000\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x5d8870b89caa <unknown>\n#1 0x5d88704bdcc5 <unknown>\n#2 0x5d88704adb32 <unknown>\n#3 0x5d88704ad8a6 <unknown>\n#4 0x5d88704ac02b <unknown>\n#5 0x5d88704ac43f <unknown>\n#6 0x5d88704b79d6 <unknown>\n#7 0x5d88704c8b90 <unknown>\n#8 0x5d88704ce99b <unknown>\n#9 0x5d88704acd17 <unknown>\n#10 0x5d88704aca38 <unknown>\n#11 0x5d88704c8a53 <unknown>\n#12 0x5d887053f60d <unknown>\n#13 0x5d88704fa557 <unknown>\n#14 0x5d88704f986e <unknown>\n#15 0x5d88704fa341 <unknown>\n#16 0x5d8870b4c79c <unknown>\n#17 0x5d8870b4afcd <unknown>\n#18 0x5d8870b35df5 <unknown>\n#19 0x5d8870b4bc0a <unknown>\n#20 0x5d8870b1eb99 <unknown>\n#21 0x5d8870b74318 <unknown>\n#22 0x5d8870b744b5 <unknown>\n#23 0x5d8870b88633 <unknown>\n#24 0x7793c18abdeb <unknown>\n#25 0x7793c193f4dc <unknown>\n",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
@@ -38033,7 +38123,7 @@ const priceTrackerData = [
     "current_price": "Error: Anomaly",
     "status": "anomaly",
     "error_message": "Price increased massively from $540.00 to $42025.00. Likely scraping error.",
-    "last_updated": "2026-11-23 19:59",
+    "last_updated": "2026-11-24 19:30",
     "history": [
       {
         "date": "2025-02-12",
